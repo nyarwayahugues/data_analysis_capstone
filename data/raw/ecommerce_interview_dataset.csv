@@ -1,0 +1,1501 @@
+order_id,order_date,customer_id,city,product_name,category,quantity,unit_price,revenue,payment_method
+1,2024-04-12,96,Huye,Optimum Nutrition Creatine,Creatine,2,25775,51550,Bank Transfer
+2,2024-12-14,302,Kigali,PreWorkout X,Pre-Workout,3,17206,51618,Card
+3,2024-09-27,318,Musanze,Whey Protein,Whey,4,22316,89264,Cash
+4,2024-04-16,272,Rwamagana,Energy Extreme,Energy,1,-22984,-22984,Mobile Money
+5,2024-03-12,239,Kigali,Optimum Nutrition Creatine,Creatine,4,28155,112620,Cash
+6,2024-07-07,359,Rubavu,Energy Extreme,Energy,1,14361,14361,Card
+7,2024-01-21,65,Rwamagana,Whey Protein,Whey,4,22676,90704,Cash
+8,2024-04-12,3,Kigali,Whey Protein,Whey,2,30144,60288,Cash
+9,2024-05-01,376,Rubavu,Optimum Nutrition Creatine,Creatine,1,11165,11165,Bank Transfer
+10,2024-08-02,324,Musanze,Energy Extreme,Energy,2,12033,24066,Cash
+11,2024-11-26,293,Rubavu,Energy Extreme,Energy,2,24269,48538,Bank Transfer
+12,2024-03-28,73,Musanze,Optimum Nutrition Creatine,Creatine,1,34557,34557,Card
+13,2024-04-09,377,Rubavu,Vitamins Complex,Vitamins,3,25152,75456,Mobile Money
+14,2024-12-25,140,Musanze,Whey Protein,Whey,4,-19155,-76620,Cash
+15,2024-05-31,293,Kigali,PreWorkout X,Pre-Workout,3,20233,60699,Mobile Money
+16,2024-05-10,380,Huye,Vitamins Complex,Vitamins,1,22260,22260,Bank Transfer
+17,2024-05-29,319,Kigali,PreWorkout X,Pre-Workout,2,10806,21612,Card
+18,2024-11-04,62,Rubavu,Vitamins Complex,Vitamins,2,18202,36404,Mobile Money
+19,2024-09-14,153,Rwamagana,PreWorkout X,Pre-Workout,1,24561,24561,Card
+20,2024-12-09,260,Musanze,PreWorkout X,Pre-Workout,3,24899,74697,Bank Transfer
+21,2024-10-20,349,Kigali,Whey Protein,Whey,3,34211,102633,Card
+22,2024-07-10,373,Musanze,Creatine Monohydrate,Creatine,3,15429,46287,Cash
+23,2024-10-03,366,Rubavu,PreWorkout X,Pre-Workout,3,13564,40692,Mobile Money
+24,2024-06-09,226,Rwamagana,Creatine Monohydrate,Creatine,2,17274,34548,Card
+25,2024-11-09,241,Musanze,Optimum Nutrition Creatine,Creatine,1,28649,28649,Mobile Money
+26,2024-01-22,376,Rwamagana,Vitamins Complex,Vitamins,2,32786,65572,Bank Transfer
+27,2024-09-09,261,Rubavu,Energy Extreme,Energy,2,25876,51752,Card
+28,2024-08-23,215,Musanze,Creatine Monohydrate,Creatine,2,17214,34428,Bank Transfer
+29,2024-12-10,99,Rubavu,Vitamins Complex,Vitamins,1,23832,23832,Bank Transfer
+30,2024-02-18,241,Musanze,Creatine Monohydrate,Creatine,4,28297,113188,Card
+31,2024-02-28,178,Huye,Whey Protein,Whey,1,20106,20106,Cash
+32,2024-06-18,216,Kigali,Vitamins Complex,Vitamins,2,33696,67392,Card
+33,2024-07-06,269,Rwamagana,Vitamins Complex,Vitamins,3,17906,53718,Card
+34,2024-09-27,89,Rubavu,Whey Protein,Whey,4,10892,43568,Cash
+35,2024-07-08,398,Kigali,Whey Protein,Whey,1,14675,14675,Bank Transfer
+36,2024-06-23,267,Kigali,Vitamins Complex,Vitamins,1,21873,21873,Bank Transfer
+37,2024-02-20,323,Huye,Energy Extreme,Energy,1,23239,23239,Mobile Money
+38,2024-12-29,226,Rwamagana,Whey Protein,Whey,3,27602,82806,Mobile Money
+39,2024-02-24,40,Kigali,Optimum Nutrition Creatine,Creatine,4,23774,95096,Card
+40,2024-08-31,226,Rubavu,Vitamins Complex,Vitamins,1,27338,27338,Mobile Money
+41,2024-11-15,38,Kigali,Whey Protein,Whey,4,17291,69164,Mobile Money
+42,2024-05-10,389,Musanze,Energy Extreme,Energy,4,31754,127016,Bank Transfer
+43,2024-11-02,37,Rubavu,Vitamins Complex,Vitamins,0,23913,0,Card
+44,2024-05-14,284,Musanze,Energy Extreme,Energy,4,19903,79612,Card
+45,2024-01-21,81,Rwamagana,PreWorkout X,Pre-Workout,1,31452,31452,Bank Transfer
+46,2024-11-24,224,Rwamagana,Whey Protein,Whey,2,19516,39032,Mobile Money
+47,2024-06-15,115,Rubavu,Optimum Nutrition Creatine,Creatine,2,12396,24792,Mobile Money
+48,2024-09-30,40,Musanze,Optimum Nutrition Creatine,Creatine,2,11591,23182,Bank Transfer
+49,2024-03-29,347,Rwamagana,PreWorkout X,Pre-Workout,2,16183,32366,Mobile Money
+50,2024-11-11,262,Rwamagana,PreWorkout X,Pre-Workout,1,11312,11312,Card
+51,2024-01-14,336,Rwamagana,Vitamins Complex,Vitamins,4,17314,69256,Bank Transfer
+52,2024-08-29,353,Rubavu,Vitamins Complex,Vitamins,4,12139,48556,Cash
+53,2024-09-21,269,Rubavu,Creatine Monohydrate,Creatine,0,28088,0,Mobile Money
+54,2024-12-11,345,Kigali,Vitamins Complex,Vitamins,3,28988,86964,Cash
+55,2024-02-22,356,Rwamagana,PreWorkout X,Pre-Workout,1,23481,23481,Cash
+56,2024-12-05,188,Kigali,Energy Extreme,Energy,3,13738,41214,Mobile Money
+57,2024-04-01,45,Huye,Vitamins Complex,Vitamins,3,26106,78318,Card
+58,2024-09-20,31,Rwamagana,Vitamins Complex,Vitamins,2,12808,25616,Mobile Money
+59,2024-02-04,394,Rwamagana,Whey Protein,Whey,3,22713,68139,Card
+60,2024-07-24,158,Huye,Optimum Nutrition Creatine,Creatine,4,32890,131560,Bank Transfer
+61,2024-03-21,82,Rwamagana,Whey Protein,Whey,3,13998,41994,Mobile Money
+62,2024-02-19,77,Huye,Creatine Monohydrate,Creatine,4,26077,104308,Card
+63,2024-12-25,224,Kigali,Energy Extreme,Energy,1,10294,10294,Bank Transfer
+64,2024-01-02,113,Rwamagana,Creatine Monohydrate,Creatine,1,19882,19882,Bank Transfer
+65,2024-02-23,360,Kigali,Optimum Nutrition Creatine,Creatine,1,12064,12064,Cash
+66,2024-04-15,188,Rwamagana,Creatine Monohydrate,Creatine,3,17009,51027,Card
+67,2024-09-16,326,Rubavu,PreWorkout X,Pre-Workout,4,11007,44028,Mobile Money
+68,2024-11-05,74,Huye,Energy Extreme,Energy,3,24749,74247,Mobile Money
+69,2024-07-09,319,Rwamagana,Energy Extreme,Energy,1,19439,19439,Bank Transfer
+70,2024-08-05,335,Musanze,Creatine Monohydrate,Creatine,4,10571,42284,Bank Transfer
+71,2024-02-13,278,Musanze,Whey Protein,Whey,2,15084,30168,Bank Transfer
+72,2024-06-10,352,Musanze,Optimum Nutrition Creatine,Creatine,4,17059,68236,Card
+73,2024-07-20,324,Kigali,PreWorkout X,Pre-Workout,4,27649,110596,Card
+74,2024-09-26,17,Kigali,Whey Protein,Whey,3,24527,73581,Cash
+75,2024-12-16,374,Musanze,PreWorkout X,Pre-Workout,4,18073,72292,Card
+76,2024-10-30,120,Kigali,Energy Extreme,Energy,1,34597,34597,Bank Transfer
+77,2024-09-27,306,Rwamagana,Vitamins Complex,Vitamins,3,32737,98211,Bank Transfer
+78,2024-08-02,175,Musanze,Whey Protein,Whey,2,14799,29598,Mobile Money
+79,2024-09-08,164,Huye,Energy Extreme,Energy,1,31195,31195,Bank Transfer
+80,2024-07-08,381,Musanze,Vitamins Complex,Vitamins,3,31730,95190,Mobile Money
+81,2024-10-22,29,Rwamagana,Creatine Monohydrate,Creatine,4,31510,126040,Card
+82,2024-07-31,134,Kigali,PreWorkout X,Pre-Workout,3,21296,63888,Mobile Money
+83,2024-07-26,58,Huye,Creatine Monohydrate,Creatine,3,24414,73242,Mobile Money
+84,2024-08-24,226,Kigali,Creatine Monohydrate,Creatine,0,21801,0,Bank Transfer
+85,2024-12-03,99,Rwamagana,PreWorkout X,Pre-Workout,1,24288,24288,Cash
+86,2024-02-22,271,Rwamagana,Energy Extreme,Energy,1,26422,26422,Cash
+87,2024-10-06,157,Kigali,PreWorkout X,Pre-Workout,0,12844,0,Card
+88,2024-08-04,288,Musanze,Whey Protein,Whey,3,33411,100233,Mobile Money
+89,2024-09-08,84,Rubavu,PreWorkout X,Pre-Workout,2,23998,47996,Card
+90,2024-07-06,27,Huye,PreWorkout X,Pre-Workout,2,21722,43444,Bank Transfer
+91,2024-02-10,382,Rubavu,Vitamins Complex,Vitamins,3,29280,87840,Card
+92,2024-06-05,21,Huye,PreWorkout X,Pre-Workout,4,10988,43952,Cash
+93,2024-01-15,357,Rubavu,Optimum Nutrition Creatine,Creatine,3,26335,79005,Bank Transfer
+94,2024-10-27,262,Huye,Energy Extreme,Energy,3,30563,91689,Bank Transfer
+95,2024-03-05,257,Musanze,Whey Protein,Whey,3,15626,46878,Mobile Money
+96,2024-12-10,15,Kigali,Optimum Nutrition Creatine,Creatine,2,22155,44310,Card
+97,2024-11-22,163,Rwamagana,Whey Protein,Whey,2,11980,23960,Bank Transfer
+98,2024-01-09,281,Kigali,Creatine Monohydrate,Creatine,4,29440,117760,Card
+99,2024-12-09,274,Rwamagana,Whey Protein,Whey,4,25883,103532,Bank Transfer
+100,2024-05-08,208,Rubavu,Creatine Monohydrate,Creatine,3,33019,99057,Mobile Money
+101,2024-05-15,60,Musanze,Energy Extreme,Energy,3,11607,34821,Cash
+102,2024-03-03,145,Rubavu,Optimum Nutrition Creatine,Creatine,2,27368,54736,Mobile Money
+103,2024-05-18,8,Rwamagana,Energy Extreme,Energy,1,13380,13380,Bank Transfer
+104,2024-03-21,174,Huye,Whey Protein,Whey,3,27434,82302,Card
+105,2024-06-11,387,Musanze,PreWorkout X,Pre-Workout,2,16342,32684,Cash
+106,2024-10-15,181,Rubavu,Optimum Nutrition Creatine,Creatine,1,27343,27343,Cash
+107,2024-09-17,378,Musanze,PreWorkout X,Pre-Workout,4,22091,88364,Cash
+108,2024-08-18,46,Musanze,Vitamins Complex,Vitamins,3,25251,75753,Card
+109,2024-02-10,222,Huye,Optimum Nutrition Creatine,Creatine,3,13224,39672,Bank Transfer
+110,2024-01-28,382,Musanze,Creatine Monohydrate,Creatine,2,21536,43072,Bank Transfer
+111,2024-05-14,228,Huye,PreWorkout X,Pre-Workout,4,28259,113036,Cash
+112,2024-07-19,319,Rubavu,Optimum Nutrition Creatine,Creatine,1,15797,15797,Cash
+113,2024-11-23,117,Rubavu,Creatine Monohydrate,Creatine,2,15109,30218,Card
+114,2024-09-24,72,Kigali,Optimum Nutrition Creatine,Creatine,2,31847,63694,Card
+115,2024-02-02,209,Huye,Creatine Monohydrate,Creatine,3,30172,90516,Card
+116,2024-02-17,320,Huye,Optimum Nutrition Creatine,Creatine,4,34849,139396,Card
+117,2024-03-02,95,Musanze,Creatine Monohydrate,Creatine,2,27773,55546,Bank Transfer
+118,2024-08-03,301,Huye,Optimum Nutrition Creatine,Creatine,2,16154,32308,Card
+119,2024-10-19,102,Kigali,Whey Protein,Whey,1,28427,28427,Mobile Money
+120,2024-04-08,214,Huye,Creatine Monohydrate,Creatine,1,27162,27162,Card
+121,2024-06-20,41,Huye,Whey Protein,Whey,3,23399,70197,Card
+122,2024-12-25,377,Kigali,Creatine Monohydrate,Creatine,1,16731,16731,Bank Transfer
+123,2024-08-01,80,Musanze,Optimum Nutrition Creatine,Creatine,2,15791,31582,Card
+124,2024-02-04,161,Rubavu,Optimum Nutrition Creatine,Creatine,2,26019,52038,Cash
+125,2024-08-14,242,Rubavu,Optimum Nutrition Creatine,Creatine,2,19127,38254,Card
+126,2024-04-10,2,Kigali,Creatine Monohydrate,Creatine,4,34416,137664,Card
+127,2024-05-10,77,Kigali,PreWorkout X,Pre-Workout,1,24056,24056,Cash
+128,2024-09-13,103,Rubavu,Whey Protein,Whey,4,-34217,-136868,Bank Transfer
+129,2024-01-05,359,Rubavu,Creatine Monohydrate,Creatine,2,25525,51050,Mobile Money
+130,2024-08-05,122,Huye,Creatine Monohydrate,Creatine,2,28093,56186,Cash
+131,2024-09-11,106,Rwamagana,Vitamins Complex,Vitamins,2,13041,26082,Cash
+132,2024-12-24,317,Huye,PreWorkout X,Pre-Workout,3,28279,84837,Bank Transfer
+133,2024-10-09,390,Rubavu,Whey Protein,Whey,3,27018,81054,Cash
+134,2024-07-25,73,Kigali,Optimum Nutrition Creatine,Creatine,1,16917,16917,Cash
+135,2024-01-15,370,Rwamagana,PreWorkout X,Pre-Workout,3,10552,31656,Cash
+136,2024-12-11,328,Musanze,PreWorkout X,Pre-Workout,4,31767,127068,Bank Transfer
+137,2024-02-11,84,Rubavu,Optimum Nutrition Creatine,Creatine,2,13389,26778,Card
+138,2024-06-27,383,Rubavu,Optimum Nutrition Creatine,Creatine,2,34826,69652,Mobile Money
+139,2024-03-03,84,Kigali,Creatine Monohydrate,Creatine,3,10458,31374,Bank Transfer
+140,2024-12-17,390,Musanze,Whey Protein,Whey,4,10899,43596,Mobile Money
+141,2024-08-18,383,Rubavu,Optimum Nutrition Creatine,Creatine,2,26405,52810,Bank Transfer
+142,2024-08-28,297,Rubavu,Creatine Monohydrate,Creatine,3,33678,101034,Bank Transfer
+143,2024-02-21,12,Musanze,Energy Extreme,Energy,4,14109,56436,Cash
+144,2024-04-05,397,Musanze,Creatine Monohydrate,Creatine,3,21787,65361,Bank Transfer
+145,2024-08-09,243,Huye,Whey Protein,Whey,1,23612,23612,Cash
+146,2024-08-18,238,Musanze,PreWorkout X,Pre-Workout,2,30022,60044,Bank Transfer
+147,2024-08-24,392,Musanze,Whey Protein,Whey,4,14780,59120,Mobile Money
+148,2024-05-22,309,Rwamagana,Vitamins Complex,Vitamins,1,21894,21894,Bank Transfer
+149,2024-06-19,300,Rubavu,PreWorkout X,Pre-Workout,3,26690,80070,Bank Transfer
+150,2024-01-29,211,Rubavu,Vitamins Complex,Vitamins,2,20181,40362,Card
+151,2024-02-05,352,Rwamagana,PreWorkout X,Pre-Workout,2,14644,29288,Bank Transfer
+152,2024-01-13,59,Huye,Energy Extreme,Energy,4,12920,51680,Cash
+153,2024-06-08,243,Musanze,Optimum Nutrition Creatine,Creatine,3,24025,72075,Mobile Money
+154,2024-11-22,93,Rubavu,Energy Extreme,Energy,3,22732,68196,Mobile Money
+155,2024-07-05,207,Huye,Vitamins Complex,Vitamins,2,32462,64924,Bank Transfer
+156,2024-08-30,213,Musanze,Vitamins Complex,Vitamins,1,17005,17005,Bank Transfer
+157,2024-03-26,24,Huye,Creatine Monohydrate,Creatine,3,10956,32868,Mobile Money
+158,2024-10-10,4,Rwamagana,Vitamins Complex,Vitamins,4,25140,100560,Cash
+159,2024-03-06,20,Kigali,PreWorkout X,Pre-Workout,4,13453,53812,Cash
+160,2024-06-18,50,Kigali,Creatine Monohydrate,Creatine,4,16295,65180,Bank Transfer
+161,2024-02-14,96,Musanze,Optimum Nutrition Creatine,Creatine,1,25282,25282,Bank Transfer
+162,2024-03-02,250,Musanze,PreWorkout X,Pre-Workout,1,16563,16563,Cash
+163,2024-05-13,228,Musanze,Vitamins Complex,Vitamins,1,32015,32015,Bank Transfer
+164,2024-10-10,262,Kigali,PreWorkout X,Pre-Workout,2,21171,42342,Mobile Money
+165,2024-01-28,243,Huye,Creatine Monohydrate,Creatine,3,22201,66603,Bank Transfer
+166,2024-04-17,246,Rwamagana,Vitamins Complex,Vitamins,3,22473,67419,Card
+167,2024-02-13,237,Kigali,PreWorkout X,Pre-Workout,1,30098,30098,Cash
+168,2024-12-05,225,Kigali,Vitamins Complex,Vitamins,2,29342,58684,Card
+169,2024-10-12,100,Rubavu,Optimum Nutrition Creatine,Creatine,3,29975,89925,Bank Transfer
+170,2024-11-26,87,Musanze,Vitamins Complex,Vitamins,4,22765,91060,Bank Transfer
+171,2024-05-07,14,Musanze,PreWorkout X,Pre-Workout,2,19131,38262,Mobile Money
+172,2024-12-13,375,Rubavu,Vitamins Complex,Vitamins,2,26385,52770,Mobile Money
+173,2024-08-18,41,Kigali,Optimum Nutrition Creatine,Creatine,1,22197,22197,Card
+174,2024-07-08,316,Musanze,Whey Protein,Whey,2,27909,55818,Cash
+175,2024-08-12,14,Rwamagana,Whey Protein,Whey,1,11646,11646,Mobile Money
+176,2024-10-09,84,Musanze,Energy Extreme,Energy,4,12278,49112,Cash
+177,2024-04-30,326,Huye,Optimum Nutrition Creatine,Creatine,2,13814,27628,Card
+178,2024-04-25,66,Rwamagana,Vitamins Complex,Vitamins,1,34603,34603,Bank Transfer
+179,2024-08-20,164,Kigali,Vitamins Complex,Vitamins,3,30740,92220,Card
+180,2024-09-15,303,Rubavu,Vitamins Complex,Vitamins,1,33446,33446,Mobile Money
+181,2024-12-24,10,Kigali,Vitamins Complex,Vitamins,3,29850,89550,Bank Transfer
+182,2024-07-16,270,Kigali,Energy Extreme,Energy,3,10629,31887,Cash
+183,2024-05-16,266,Huye,Energy Extreme,Energy,4,15724,62896,Card
+184,2024-11-13,361,Rwamagana,Energy Extreme,Energy,4,23149,92596,Mobile Money
+185,2024-06-13,276,Rubavu,Vitamins Complex,Vitamins,1,16276,16276,Card
+186,2024-08-12,1,Rwamagana,Optimum Nutrition Creatine,Creatine,4,23994,95976,Card
+187,2024-11-02,374,Kigali,Whey Protein,Whey,1,26959,26959,Cash
+188,2024-08-21,121,Musanze,Whey Protein,Whey,4,19499,77996,Cash
+189,2024-06-20,175,Rwamagana,Creatine Monohydrate,Creatine,3,32436,97308,Mobile Money
+190,2024-05-31,165,Huye,Energy Extreme,Energy,1,25563,25563,Bank Transfer
+191,2024-11-10,120,Musanze,Optimum Nutrition Creatine,Creatine,1,13568,13568,Cash
+192,2024-06-08,156,Rwamagana,PreWorkout X,Pre-Workout,4,24135,96540,Card
+193,2024-04-05,390,Musanze,PreWorkout X,Pre-Workout,3,11742,35226,Mobile Money
+194,2024-08-20,370,Kigali,Creatine Monohydrate,Creatine,4,27658,110632,Bank Transfer
+195,2024-06-28,293,Rubavu,Creatine Monohydrate,Creatine,2,26001,52002,Cash
+196,2024-04-22,285,Rubavu,Creatine Monohydrate,Creatine,4,10281,41124,Cash
+197,2024-11-13,35,Rubavu,Creatine Monohydrate,Creatine,1,16262,16262,Bank Transfer
+198,2024-02-21,245,Rubavu,PreWorkout X,Pre-Workout,2,20724,41448,Cash
+199,2024-09-24,161,Kigali,Energy Extreme,Energy,0,16980,0,Cash
+200,2024-10-21,12,Rubavu,Energy Extreme,Energy,1,11229,11229,Cash
+201,2024-04-22,181,Rwamagana,Creatine Monohydrate,Creatine,2,18467,36934,Cash
+202,2024-04-10,251,Rubavu,Vitamins Complex,Vitamins,2,11239,22478,Bank Transfer
+203,2024-04-22,217,Huye,PreWorkout X,Pre-Workout,3,10125,30375,Mobile Money
+204,2024-03-21,223,Rwamagana,Creatine Monohydrate,Creatine,2,25398,50796,Card
+205,2024-07-05,178,Rwamagana,Energy Extreme,Energy,4,-16638,-66552,Bank Transfer
+206,2024-04-22,294,Rwamagana,Optimum Nutrition Creatine,Creatine,3,17595,52785,Bank Transfer
+207,2024-01-02,384,Rubavu,Creatine Monohydrate,Creatine,4,16294,65176,Mobile Money
+208,2024-05-09,336,Kigali,Energy Extreme,Energy,2,22595,45190,Mobile Money
+209,2024-08-07,380,Rwamagana,Optimum Nutrition Creatine,Creatine,2,20985,41970,Bank Transfer
+210,2024-02-23,341,Rubavu,Optimum Nutrition Creatine,Creatine,3,33559,100677,Bank Transfer
+211,2024-12-08,264,Kigali,Vitamins Complex,Vitamins,1,19206,19206,Cash
+212,2024-08-11,358,Huye,PreWorkout X,Pre-Workout,1,17519,17519,Cash
+213,2024-08-12,175,Rubavu,Whey Protein,Whey,1,22373,22373,Cash
+214,2024-05-05,311,Rubavu,Energy Extreme,Energy,2,25552,51104,Mobile Money
+215,2024-05-09,114,Musanze,Energy Extreme,Energy,3,-25577,-76731,Mobile Money
+216,2024-02-22,26,Musanze,PreWorkout X,Pre-Workout,2,25504,51008,Card
+217,2024-06-20,232,Rubavu,Optimum Nutrition Creatine,Creatine,4,10302,41208,Card
+218,2024-08-05,328,Kigali,Vitamins Complex,Vitamins,1,27370,27370,Mobile Money
+219,2024-06-08,289,Kigali,Energy Extreme,Energy,1,31293,31293,Bank Transfer
+220,2024-07-16,142,Musanze,PreWorkout X,Pre-Workout,1,23598,23598,Card
+221,2024-09-03,69,Rubavu,Vitamins Complex,Vitamins,1,19519,19519,Mobile Money
+222,2024-11-19,220,Kigali,Optimum Nutrition Creatine,Creatine,1,21865,21865,Mobile Money
+223,2024-07-21,192,Rwamagana,Whey Protein,Whey,2,15105,30210,Mobile Money
+224,2024-07-02,73,Kigali,Energy Extreme,Energy,2,26958,53916,Bank Transfer
+225,2024-05-02,89,Kigali,Creatine Monohydrate,Creatine,1,17848,17848,Card
+226,2024-09-11,73,Rubavu,Creatine Monohydrate,Creatine,4,16924,67696,Card
+227,2024-10-20,324,Kigali,PreWorkout X,Pre-Workout,1,29614,29614,Bank Transfer
+228,2024-10-06,102,Rubavu,Optimum Nutrition Creatine,Creatine,2,25740,51480,Mobile Money
+229,2024-11-20,102,Huye,Optimum Nutrition Creatine,Creatine,2,11667,23334,Cash
+230,2024-04-07,82,Musanze,Optimum Nutrition Creatine,Creatine,3,13553,40659,Bank Transfer
+231,2024-07-16,279,Huye,Optimum Nutrition Creatine,Creatine,1,11000,11000,Card
+232,2024-08-27,331,Rubavu,PreWorkout X,Pre-Workout,3,27772,83316,Card
+233,2024-05-23,310,Huye,Optimum Nutrition Creatine,Creatine,1,11367,11367,Cash
+234,2024-04-06,143,Rubavu,Whey Protein,Whey,3,29156,87468,Card
+235,2024-07-19,143,Kigali,Optimum Nutrition Creatine,Creatine,1,14806,14806,Card
+236,2024-05-03,316,Musanze,Vitamins Complex,Vitamins,1,22178,22178,Mobile Money
+237,2024-07-05,305,Kigali,PreWorkout X,Pre-Workout,1,15592,15592,Cash
+238,2024-11-21,102,Rwamagana,Creatine Monohydrate,Creatine,4,32443,129772,Bank Transfer
+239,2024-12-14,355,Rubavu,Whey Protein,Whey,2,21530,43060,Card
+240,2024-09-15,330,Huye,Creatine Monohydrate,Creatine,4,33501,134004,Bank Transfer
+241,2024-05-27,265,Rwamagana,Vitamins Complex,Vitamins,2,12989,25978,Mobile Money
+242,2024-09-08,282,Rwamagana,Whey Protein,Whey,3,32612,97836,Mobile Money
+243,2024-12-11,117,Huye,Creatine Monohydrate,Creatine,4,12863,51452,Cash
+244,2024-05-26,153,Rubavu,Creatine Monohydrate,Creatine,1,11177,11177,Cash
+245,2024-05-27,304,Rwamagana,Vitamins Complex,Vitamins,4,31636,126544,Bank Transfer
+246,2024-12-17,228,Musanze,Whey Protein,Whey,1,21563,21563,Bank Transfer
+247,2024-07-17,343,Huye,PreWorkout X,Pre-Workout,3,18234,54702,Mobile Money
+248,2024-11-03,364,Rubavu,Creatine Monohydrate,Creatine,2,-26173,-52346,Mobile Money
+249,2024-05-07,21,Rwamagana,Energy Extreme,Energy,3,16570,49710,Card
+250,2024-02-08,336,Kigali,Whey Protein,Whey,3,19206,57618,Cash
+251,2024-12-03,399,Musanze,Whey Protein,Whey,3,31627,94881,Cash
+252,2024-12-25,51,Kigali,Whey Protein,Whey,1,18906,18906,Card
+253,2024-05-08,277,Musanze,Vitamins Complex,Vitamins,3,22611,67833,Mobile Money
+254,2024-09-23,290,Rwamagana,Whey Protein,Whey,1,14882,14882,Bank Transfer
+255,2024-05-30,373,Rwamagana,Whey Protein,Whey,2,16012,32024,Bank Transfer
+256,2024-10-24,157,Kigali,Vitamins Complex,Vitamins,4,13610,54440,Card
+257,2024-04-08,291,Huye,Optimum Nutrition Creatine,Creatine,3,23467,70401,Card
+258,2024-09-19,106,Rubavu,PreWorkout X,Pre-Workout,4,33695,134780,Mobile Money
+259,2024-09-08,2,Rwamagana,Energy Extreme,Energy,4,19873,79492,Mobile Money
+260,2024-05-23,132,Rubavu,Whey Protein,Whey,1,20828,20828,Card
+261,2024-12-11,263,Huye,PreWorkout X,Pre-Workout,2,30829,61658,Card
+262,2024-04-21,74,Kigali,PreWorkout X,Pre-Workout,3,21371,64113,Card
+263,2024-02-29,159,Kigali,Vitamins Complex,Vitamins,3,-17052,-51156,Mobile Money
+264,2024-01-02,312,Huye,Creatine Monohydrate,Creatine,3,33486,100458,Card
+265,2024-10-30,298,Kigali,PreWorkout X,Pre-Workout,1,34489,34489,Card
+266,2024-09-10,84,Musanze,Optimum Nutrition Creatine,Creatine,4,34611,138444,Mobile Money
+267,2024-05-19,263,Kigali,Vitamins Complex,Vitamins,4,22149,88596,Cash
+268,2024-02-06,172,Musanze,Optimum Nutrition Creatine,Creatine,2,19600,39200,Card
+269,2024-06-08,362,Rwamagana,Optimum Nutrition Creatine,Creatine,4,19900,79600,Mobile Money
+270,2024-01-09,141,Rwamagana,Energy Extreme,Energy,3,21130,63390,Card
+271,2024-08-20,277,Huye,Whey Protein,Whey,3,33669,101007,Card
+272,2024-04-08,393,Rwamagana,Whey Protein,Whey,2,19435,38870,Card
+273,2024-05-26,271,Rwamagana,Creatine Monohydrate,Creatine,2,14616,29232,Mobile Money
+274,2024-10-30,121,Kigali,Whey Protein,Whey,2,20617,41234,Bank Transfer
+275,2024-07-26,208,Rwamagana,Optimum Nutrition Creatine,Creatine,1,16295,16295,Mobile Money
+276,2024-05-10,347,Huye,Whey Protein,Whey,1,13225,13225,Cash
+277,2024-05-31,50,Kigali,Creatine Monohydrate,Creatine,1,32083,32083,Bank Transfer
+278,2024-02-23,100,Rwamagana,Energy Extreme,Energy,4,33058,132232,Card
+279,2024-04-29,345,Rubavu,Vitamins Complex,Vitamins,4,13273,53092,Card
+280,2024-06-09,164,Rubavu,Energy Extreme,Energy,2,15010,30020,Bank Transfer
+281,2024-04-25,242,Musanze,Creatine Monohydrate,Creatine,2,-13040,-26080,Mobile Money
+282,2024-03-15,108,Rubavu,PreWorkout X,Pre-Workout,1,26866,26866,Card
+283,2024-04-22,149,Rwamagana,PreWorkout X,Pre-Workout,2,27014,54028,Cash
+284,2024-04-13,293,Huye,Vitamins Complex,Vitamins,1,18853,18853,Cash
+285,2024-12-05,160,Rwamagana,Optimum Nutrition Creatine,Creatine,3,10987,32961,Cash
+286,2024-09-10,78,Kigali,Optimum Nutrition Creatine,Creatine,3,19160,57480,Bank Transfer
+287,2024-08-14,254,Musanze,Creatine Monohydrate,Creatine,1,16652,16652,Card
+288,2024-04-21,320,Rwamagana,Optimum Nutrition Creatine,Creatine,1,10769,10769,Mobile Money
+289,2024-04-08,85,Musanze,Optimum Nutrition Creatine,Creatine,3,14358,43074,Cash
+290,2024-06-01,167,Rwamagana,Whey Protein,Whey,2,33164,66328,Card
+291,2024-12-14,280,Rubavu,Vitamins Complex,Vitamins,1,32986,32986,Mobile Money
+292,2024-12-03,19,Musanze,Vitamins Complex,Vitamins,4,28733,114932,Card
+293,2024-07-12,102,Huye,Creatine Monohydrate,Creatine,4,27625,110500,Cash
+294,2024-11-05,36,Musanze,Creatine Monohydrate,Creatine,2,16764,33528,Card
+295,2024-06-11,353,Kigali,Vitamins Complex,Vitamins,4,24052,96208,Mobile Money
+296,2024-07-26,73,Rwamagana,Whey Protein,Whey,4,24210,96840,Cash
+297,2024-06-17,379,Musanze,Creatine Monohydrate,Creatine,4,31856,127424,Bank Transfer
+298,2024-06-09,196,Huye,PreWorkout X,Pre-Workout,2,12472,24944,Mobile Money
+299,2024-03-08,316,Rwamagana,Vitamins Complex,Vitamins,1,16704,16704,Mobile Money
+300,2024-10-15,5,Musanze,PreWorkout X,Pre-Workout,2,15051,30102,Cash
+301,2024-10-03,160,Rubavu,PreWorkout X,Pre-Workout,4,13610,54440,Mobile Money
+302,2024-10-30,200,Rubavu,Energy Extreme,Energy,1,33781,33781,Mobile Money
+303,2024-05-14,300,Rwamagana,Vitamins Complex,Vitamins,2,18258,36516,Cash
+304,2024-07-13,259,Musanze,Creatine Monohydrate,Creatine,1,22345,22345,Mobile Money
+305,2024-05-07,215,Huye,Vitamins Complex,Vitamins,2,15249,30498,Card
+306,2024-02-02,102,Rwamagana,Vitamins Complex,Vitamins,4,29201,116804,Card
+307,2024-06-24,354,Rubavu,Optimum Nutrition Creatine,Creatine,1,30258,30258,Mobile Money
+308,2024-01-22,116,Kigali,Whey Protein,Whey,3,24109,72327,Cash
+309,2024-08-25,300,Rubavu,Optimum Nutrition Creatine,Creatine,4,10661,42644,Card
+310,2024-06-06,333,Rwamagana,Vitamins Complex,Vitamins,2,24788,49576,Card
+311,2024-02-07,303,Huye,Vitamins Complex,Vitamins,1,20526,20526,Bank Transfer
+312,2024-08-17,106,Rwamagana,Energy Extreme,Energy,1,10207,10207,Bank Transfer
+313,2024-12-30,121,Kigali,Creatine Monohydrate,Creatine,2,33197,66394,Cash
+314,2024-02-20,145,Huye,Vitamins Complex,Vitamins,3,13083,39249,Card
+315,2024-09-20,136,Rubavu,Optimum Nutrition Creatine,Creatine,4,20123,80492,Bank Transfer
+316,2024-10-09,144,Huye,PreWorkout X,Pre-Workout,4,20754,83016,Mobile Money
+317,2024-01-27,279,Kigali,Whey Protein,Whey,2,10236,20472,Card
+318,2024-08-13,104,Musanze,Creatine Monohydrate,Creatine,4,33154,132616,Mobile Money
+319,2024-10-03,360,Huye,Vitamins Complex,Vitamins,2,32483,64966,Card
+320,2024-10-12,321,Rubavu,Energy Extreme,Energy,4,18555,74220,Cash
+321,2024-04-06,149,Rwamagana,Creatine Monohydrate,Creatine,1,26669,26669,Card
+322,2024-10-10,231,Rwamagana,Vitamins Complex,Vitamins,4,30421,121684,Cash
+323,2024-11-12,272,Kigali,Vitamins Complex,Vitamins,4,31664,126656,Card
+324,2024-10-30,226,Kigali,Energy Extreme,Energy,4,19715,78860,Cash
+325,2024-05-26,292,Musanze,Creatine Monohydrate,Creatine,1,30109,30109,Mobile Money
+326,2024-01-04,114,Huye,Creatine Monohydrate,Creatine,1,15782,15782,Cash
+327,2024-02-04,341,Huye,Whey Protein,Whey,1,28792,28792,Cash
+328,2024-07-10,331,Rubavu,PreWorkout X,Pre-Workout,2,25096,50192,Bank Transfer
+329,2024-02-18,190,Musanze,Energy Extreme,Energy,3,15299,45897,Mobile Money
+330,2024-01-17,196,Musanze,Energy Extreme,Energy,3,28073,84219,Card
+331,2024-06-20,262,Rwamagana,Whey Protein,Whey,2,14406,28812,Card
+332,2024-08-07,143,Rwamagana,Optimum Nutrition Creatine,Creatine,3,34981,104943,Card
+333,2024-06-06,101,Rwamagana,Vitamins Complex,Vitamins,2,15435,30870,Bank Transfer
+334,2024-02-15,239,Kigali,Creatine Monohydrate,Creatine,4,14107,56428,Card
+335,2024-01-06,166,Huye,Energy Extreme,Energy,1,22329,22329,Cash
+336,2024-04-08,291,Huye,Energy Extreme,Energy,2,31932,63864,Cash
+337,2024-08-20,158,Musanze,Creatine Monohydrate,Creatine,2,22265,44530,Card
+338,2024-02-06,67,Rubavu,Whey Protein,Whey,2,18325,36650,Mobile Money
+339,2024-10-06,73,Huye,Optimum Nutrition Creatine,Creatine,4,17693,70772,Cash
+340,2024-12-14,163,Musanze,Optimum Nutrition Creatine,Creatine,3,23716,71148,Mobile Money
+341,2024-10-28,130,Kigali,Vitamins Complex,Vitamins,2,33386,66772,Bank Transfer
+342,2024-06-29,276,Kigali,Whey Protein,Whey,3,17373,52119,Mobile Money
+343,2024-04-04,266,Musanze,Vitamins Complex,Vitamins,2,26127,52254,Card
+344,2024-04-08,253,Rwamagana,Energy Extreme,Energy,1,18984,18984,Mobile Money
+345,2024-07-06,95,Rubavu,Creatine Monohydrate,Creatine,2,30643,61286,Cash
+346,2024-04-25,238,Rwamagana,Energy Extreme,Energy,2,14917,29834,Cash
+347,2024-07-09,387,Kigali,PreWorkout X,Pre-Workout,1,25795,25795,Card
+348,2024-09-09,390,Rwamagana,Vitamins Complex,Vitamins,3,28344,85032,Card
+349,2024-06-09,117,Rwamagana,Optimum Nutrition Creatine,Creatine,1,15772,15772,Card
+350,2024-09-12,25,Kigali,Whey Protein,Whey,2,25751,51502,Mobile Money
+351,2024-11-18,173,Rwamagana,Energy Extreme,Energy,3,23891,71673,Card
+352,2024-05-07,288,Rubavu,Whey Protein,Whey,4,33563,134252,Mobile Money
+353,2024-01-18,92,Rubavu,Optimum Nutrition Creatine,Creatine,4,21871,87484,Card
+354,2024-10-07,334,Huye,Energy Extreme,Energy,1,18734,18734,Cash
+355,2024-08-10,316,Rubavu,Energy Extreme,Energy,4,32161,128644,Bank Transfer
+356,2024-02-23,160,Rwamagana,Energy Extreme,Energy,3,22677,68031,Card
+357,2024-02-27,254,Kigali,Whey Protein,Whey,1,22330,22330,Bank Transfer
+358,2024-11-18,151,Musanze,Whey Protein,Whey,2,15179,30358,Cash
+359,2024-12-25,5,Rubavu,Optimum Nutrition Creatine,Creatine,3,16430,49290,Bank Transfer
+360,2024-06-22,266,Musanze,Creatine Monohydrate,Creatine,3,20145,60435,Mobile Money
+361,2024-10-06,382,Rubavu,Energy Extreme,Energy,0,31121,0,Bank Transfer
+362,2024-04-23,253,Huye,Whey Protein,Whey,3,27073,81219,Card
+363,2024-10-14,83,Kigali,Creatine Monohydrate,Creatine,3,31559,94677,Mobile Money
+364,2024-12-07,156,Kigali,Creatine Monohydrate,Creatine,1,15448,15448,Cash
+365,2024-05-30,263,Musanze,Vitamins Complex,Vitamins,2,19074,38148,Card
+366,2024-05-06,252,Kigali,PreWorkout X,Pre-Workout,4,34975,139900,Cash
+367,2024-06-03,103,Musanze,PreWorkout X,Pre-Workout,1,24083,24083,Mobile Money
+368,2024-09-29,101,Rwamagana,Whey Protein,Whey,4,33312,133248,Cash
+369,2024-04-13,308,Huye,Creatine Monohydrate,Creatine,3,11403,34209,Cash
+370,2024-10-25,124,Kigali,Optimum Nutrition Creatine,Creatine,1,19011,19011,Mobile Money
+371,2024-09-02,178,Rwamagana,Creatine Monohydrate,Creatine,2,29686,59372,Cash
+372,2024-06-24,116,Huye,Energy Extreme,Energy,3,19700,59100,Card
+373,2024-02-08,256,Huye,Energy Extreme,Energy,3,15693,47079,Bank Transfer
+374,2024-06-18,7,Musanze,Optimum Nutrition Creatine,Creatine,1,24818,24818,Cash
+375,2024-09-03,229,Rubavu,Whey Protein,Whey,3,11549,34647,Bank Transfer
+376,2024-01-26,133,Rubavu,Creatine Monohydrate,Creatine,1,20837,20837,Card
+377,2024-12-20,62,Rubavu,Vitamins Complex,Vitamins,2,14481,28962,Bank Transfer
+378,2024-11-01,246,Rwamagana,Vitamins Complex,Vitamins,3,16548,49644,Card
+379,2024-01-13,149,Musanze,Energy Extreme,Energy,2,17758,35516,Bank Transfer
+380,2024-11-11,314,Kigali,Creatine Monohydrate,Creatine,2,34022,68044,Cash
+381,2024-11-08,389,Kigali,Creatine Monohydrate,Creatine,4,15542,62168,Bank Transfer
+382,2024-02-05,242,Kigali,PreWorkout X,Pre-Workout,1,32740,32740,Cash
+383,2024-06-21,181,Kigali,Energy Extreme,Energy,1,-33764,-33764,Bank Transfer
+384,2024-01-20,173,Rubavu,PreWorkout X,Pre-Workout,2,24308,48616,Cash
+385,2024-11-16,188,Kigali,Vitamins Complex,Vitamins,4,10163,40652,Cash
+386,2024-09-20,308,Rubavu,Creatine Monohydrate,Creatine,3,14798,44394,Cash
+387,2024-05-21,196,Musanze,Energy Extreme,Energy,0,34345,0,Cash
+388,2024-05-22,252,Huye,PreWorkout X,Pre-Workout,2,14719,29438,Mobile Money
+389,2024-04-01,227,Musanze,PreWorkout X,Pre-Workout,2,31223,62446,Mobile Money
+390,2024-12-19,42,Kigali,Creatine Monohydrate,Creatine,1,29877,29877,Card
+391,2024-11-17,113,Huye,Optimum Nutrition Creatine,Creatine,1,20636,20636,Cash
+392,2024-10-14,120,Huye,Energy Extreme,Energy,1,10016,10016,Bank Transfer
+393,2024-08-02,130,Huye,Optimum Nutrition Creatine,Creatine,1,16272,16272,Mobile Money
+394,2024-12-07,29,Rubavu,Creatine Monohydrate,Creatine,4,13631,54524,Card
+395,2024-02-20,242,Rubavu,Creatine Monohydrate,Creatine,1,33561,33561,Cash
+396,2024-06-01,232,Huye,Whey Protein,Whey,2,34507,69014,Cash
+397,2024-07-04,203,Musanze,Whey Protein,Whey,1,33835,33835,Mobile Money
+398,2024-03-03,214,Kigali,Vitamins Complex,Vitamins,0,27159,0,Mobile Money
+399,2024-07-08,79,Huye,Vitamins Complex,Vitamins,4,33472,133888,Bank Transfer
+400,2024-05-04,343,Rubavu,Creatine Monohydrate,Creatine,1,17099,17099,Mobile Money
+401,2024-05-29,69,Musanze,Optimum Nutrition Creatine,Creatine,4,33724,134896,Bank Transfer
+402,2024-11-09,87,Rubavu,Creatine Monohydrate,Creatine,4,17083,68332,Card
+403,2024-02-27,333,Musanze,Optimum Nutrition Creatine,Creatine,1,19223,19223,Cash
+404,2024-12-07,109,Rubavu,Creatine Monohydrate,Creatine,4,13456,53824,Bank Transfer
+405,2024-10-31,152,Huye,PreWorkout X,Pre-Workout,3,34983,104949,Cash
+406,2024-06-28,148,Rubavu,PreWorkout X,Pre-Workout,1,28052,28052,Bank Transfer
+407,2024-06-18,366,Kigali,PreWorkout X,Pre-Workout,1,22089,22089,Bank Transfer
+408,2024-11-21,399,Rubavu,Creatine Monohydrate,Creatine,4,19866,79464,Bank Transfer
+409,2024-09-27,28,Rubavu,Optimum Nutrition Creatine,Creatine,3,15510,46530,Bank Transfer
+410,2024-02-23,350,Kigali,Optimum Nutrition Creatine,Creatine,3,18964,56892,Mobile Money
+411,2024-04-10,320,Rwamagana,PreWorkout X,Pre-Workout,2,20759,41518,Bank Transfer
+412,2024-09-20,111,Rwamagana,Whey Protein,Whey,2,19765,39530,Card
+413,2024-02-22,220,Musanze,Vitamins Complex,Vitamins,4,16511,66044,Bank Transfer
+414,2024-02-29,136,Musanze,Creatine Monohydrate,Creatine,1,27630,27630,Bank Transfer
+415,2024-04-17,329,Huye,Whey Protein,Whey,4,34935,139740,Mobile Money
+416,2024-01-05,292,Rubavu,Whey Protein,Whey,2,21824,43648,Mobile Money
+417,2024-04-12,78,Rubavu,Creatine Monohydrate,Creatine,2,16979,33958,Card
+418,2024-07-14,378,Musanze,Optimum Nutrition Creatine,Creatine,1,22504,22504,Bank Transfer
+419,2024-09-18,255,Rubavu,Energy Extreme,Energy,3,30669,92007,Bank Transfer
+420,2024-12-30,149,Rubavu,Energy Extreme,Energy,2,24089,48178,Card
+421,2024-12-15,258,Rubavu,PreWorkout X,Pre-Workout,4,15978,63912,Cash
+422,2024-02-16,181,Kigali,Whey Protein,Whey,2,10780,21560,Cash
+423,2024-12-20,288,Musanze,Optimum Nutrition Creatine,Creatine,4,24686,98744,Card
+424,2024-11-06,271,Rubavu,Whey Protein,Whey,4,26905,107620,Card
+425,2024-11-03,183,Rwamagana,Vitamins Complex,Vitamins,1,33953,33953,Mobile Money
+426,2024-05-23,315,Rubavu,Whey Protein,Whey,1,32168,32168,Cash
+427,2024-09-25,114,Musanze,Creatine Monohydrate,Creatine,2,32651,65302,Cash
+428,2024-05-03,213,Kigali,Creatine Monohydrate,Creatine,2,22275,44550,Card
+429,2024-04-15,113,Huye,Energy Extreme,Energy,4,10685,42740,Bank Transfer
+430,2024-06-06,122,Rwamagana,Vitamins Complex,Vitamins,4,22258,89032,Mobile Money
+431,2024-05-26,119,Rwamagana,Creatine Monohydrate,Creatine,4,31725,126900,Bank Transfer
+432,2024-05-24,268,Rubavu,Creatine Monohydrate,Creatine,3,20736,62208,Bank Transfer
+433,2024-04-29,18,Kigali,Energy Extreme,Energy,1,21182,21182,Bank Transfer
+434,2024-11-14,149,Rwamagana,Energy Extreme,Energy,1,17165,17165,Card
+435,2024-10-01,302,Rubavu,Creatine Monohydrate,Creatine,2,24215,48430,Bank Transfer
+436,2024-04-01,135,Musanze,Vitamins Complex,Vitamins,4,32765,131060,Bank Transfer
+437,2024-02-27,224,Huye,PreWorkout X,Pre-Workout,3,-24571,-73713,Bank Transfer
+438,2024-12-11,345,Musanze,Energy Extreme,Energy,3,30714,92142,Bank Transfer
+439,2024-08-16,285,Rubavu,Energy Extreme,Energy,2,33387,66774,Cash
+440,2024-04-26,258,Rwamagana,Energy Extreme,Energy,1,29921,29921,Cash
+441,2024-11-13,283,Musanze,Optimum Nutrition Creatine,Creatine,1,22500,22500,Cash
+442,2024-10-05,88,Huye,Creatine Monohydrate,Creatine,2,21870,43740,Mobile Money
+443,2024-05-06,171,Huye,Optimum Nutrition Creatine,Creatine,4,20517,82068,Card
+444,2024-05-08,353,Huye,Optimum Nutrition Creatine,Creatine,1,11724,11724,Bank Transfer
+445,2024-02-27,191,Musanze,Vitamins Complex,Vitamins,4,18706,74824,Bank Transfer
+446,2024-05-01,23,Huye,Energy Extreme,Energy,2,28450,56900,Bank Transfer
+447,2024-01-01,108,Musanze,PreWorkout X,Pre-Workout,1,15926,15926,Card
+448,2024-08-26,128,Kigali,Energy Extreme,Energy,3,19496,58488,Bank Transfer
+449,2024-10-16,362,Rubavu,Vitamins Complex,Vitamins,1,32663,32663,Card
+450,2024-04-05,72,Kigali,Creatine Monohydrate,Creatine,2,13727,27454,Mobile Money
+451,2024-05-05,261,Musanze,PreWorkout X,Pre-Workout,1,32379,32379,Card
+452,2024-04-27,388,Huye,Whey Protein,Whey,3,26832,80496,Bank Transfer
+453,2024-02-17,320,Kigali,Creatine Monohydrate,Creatine,4,31727,126908,Card
+454,2024-03-29,10,Kigali,Creatine Monohydrate,Creatine,2,34417,68834,Mobile Money
+455,2024-08-24,302,Rubavu,Creatine Monohydrate,Creatine,1,13967,13967,Bank Transfer
+456,2024-09-28,66,Rubavu,Creatine Monohydrate,Creatine,3,24042,72126,Mobile Money
+457,2024-07-07,13,Huye,Vitamins Complex,Vitamins,1,12159,12159,Bank Transfer
+458,2024-07-10,86,Huye,Creatine Monohydrate,Creatine,1,28931,28931,Cash
+459,2024-03-09,314,Rubavu,Creatine Monohydrate,Creatine,2,29033,58066,Mobile Money
+460,2024-10-04,209,Rubavu,Optimum Nutrition Creatine,Creatine,2,13083,26166,Mobile Money
+461,2024-12-14,121,Rwamagana,Vitamins Complex,Vitamins,2,27421,54842,Cash
+462,2024-09-03,377,Kigali,Vitamins Complex,Vitamins,2,17604,35208,Cash
+463,2024-03-16,243,Rubavu,Energy Extreme,Energy,4,29018,116072,Bank Transfer
+464,2024-06-02,70,Musanze,Creatine Monohydrate,Creatine,3,15110,45330,Mobile Money
+465,2024-05-23,101,Musanze,PreWorkout X,Pre-Workout,4,33762,135048,Card
+466,2024-03-26,111,Rubavu,Whey Protein,Whey,2,12179,24358,Mobile Money
+467,2024-07-03,20,Musanze,Optimum Nutrition Creatine,Creatine,1,15251,15251,Cash
+468,2024-10-11,227,Rubavu,Vitamins Complex,Vitamins,2,24871,49742,Cash
+469,2024-08-07,230,Rwamagana,Energy Extreme,Energy,2,11828,23656,Card
+470,2024-03-09,359,Kigali,PreWorkout X,Pre-Workout,1,23109,23109,Mobile Money
+471,2024-02-16,38,Rubavu,Vitamins Complex,Vitamins,1,24537,24537,Cash
+472,2024-04-03,188,Kigali,Whey Protein,Whey,2,15891,31782,Cash
+473,2024-08-25,20,Musanze,Optimum Nutrition Creatine,Creatine,1,15036,15036,Mobile Money
+474,2024-07-22,4,Huye,Whey Protein,Whey,1,20822,20822,Mobile Money
+475,2024-08-05,216,Kigali,Energy Extreme,Energy,1,13586,13586,Cash
+476,2024-12-06,186,Rubavu,Optimum Nutrition Creatine,Creatine,1,30815,30815,Mobile Money
+477,2024-02-08,388,Rubavu,Energy Extreme,Energy,3,16643,49929,Bank Transfer
+478,2024-04-09,24,Kigali,Creatine Monohydrate,Creatine,4,-21005,-84020,Cash
+479,2024-10-15,82,Rubavu,Creatine Monohydrate,Creatine,2,26029,52058,Card
+480,2024-09-10,305,Musanze,Optimum Nutrition Creatine,Creatine,3,21154,63462,Bank Transfer
+481,2024-08-09,211,Huye,Creatine Monohydrate,Creatine,3,15997,47991,Cash
+482,2024-12-22,109,Kigali,Vitamins Complex,Vitamins,2,27047,54094,Bank Transfer
+483,2024-01-23,314,Musanze,Energy Extreme,Energy,4,10541,42164,Bank Transfer
+484,2024-09-06,356,Musanze,Energy Extreme,Energy,2,23428,46856,Cash
+485,2024-01-10,173,Huye,PreWorkout X,Pre-Workout,4,20258,81032,Bank Transfer
+486,2024-09-02,183,Rwamagana,PreWorkout X,Pre-Workout,4,15469,61876,Card
+487,2024-11-20,146,Huye,Energy Extreme,Energy,1,20720,20720,Cash
+488,2024-04-09,113,Kigali,Creatine Monohydrate,Creatine,3,11651,34953,Card
+489,2024-10-16,313,Kigali,PreWorkout X,Pre-Workout,3,19518,58554,Bank Transfer
+490,2024-06-28,301,Kigali,Whey Protein,Whey,4,31621,126484,Mobile Money
+491,2024-08-10,260,Rwamagana,Vitamins Complex,Vitamins,1,22485,22485,Card
+492,2024-09-06,399,Musanze,Creatine Monohydrate,Creatine,4,28394,113576,Cash
+493,2024-05-26,124,Kigali,Vitamins Complex,Vitamins,2,28509,57018,Mobile Money
+494,2024-04-05,137,Rwamagana,Vitamins Complex,Vitamins,3,26230,78690,Bank Transfer
+495,2024-09-13,325,Kigali,Whey Protein,Whey,2,13471,26942,Bank Transfer
+496,2024-11-20,50,Huye,Optimum Nutrition Creatine,Creatine,1,18329,18329,Mobile Money
+497,2024-01-04,107,Huye,PreWorkout X,Pre-Workout,3,-31452,-94356,Card
+498,2024-01-16,254,Rwamagana,Optimum Nutrition Creatine,Creatine,1,20077,20077,Bank Transfer
+499,2024-10-06,337,Rubavu,Optimum Nutrition Creatine,Creatine,2,12757,25514,Mobile Money
+500,2024-12-01,51,Rubavu,PreWorkout X,Pre-Workout,3,28284,84852,Card
+501,2024-09-03,35,Huye,Vitamins Complex,Vitamins,1,27833,27833,Cash
+502,2024-09-14,69,Rwamagana,Creatine Monohydrate,Creatine,2,-15017,-30034,Bank Transfer
+503,2024-06-08,49,Musanze,Vitamins Complex,Vitamins,1,17999,17999,Mobile Money
+504,2024-12-05,192,Huye,Optimum Nutrition Creatine,Creatine,1,25433,25433,Mobile Money
+505,2024-05-31,70,Rubavu,Energy Extreme,Energy,1,20595,20595,Card
+506,2024-06-26,126,Rwamagana,Whey Protein,Whey,2,29715,59430,Mobile Money
+507,2024-06-11,129,Kigali,Whey Protein,Whey,3,33846,101538,Mobile Money
+508,2024-02-02,100,Huye,PreWorkout X,Pre-Workout,4,13384,53536,Cash
+509,2024-06-27,174,Rwamagana,PreWorkout X,Pre-Workout,2,23493,46986,Bank Transfer
+510,2024-04-10,188,Rubavu,Whey Protein,Whey,4,17531,70124,Cash
+511,2024-09-24,84,Rwamagana,Creatine Monohydrate,Creatine,1,17710,17710,Bank Transfer
+512,2024-11-18,213,Rwamagana,Creatine Monohydrate,Creatine,4,22835,91340,Card
+513,2024-03-05,364,Rwamagana,Vitamins Complex,Vitamins,2,11431,22862,Bank Transfer
+514,2024-06-16,220,Musanze,Whey Protein,Whey,2,19557,39114,Mobile Money
+515,2024-11-25,220,Musanze,PreWorkout X,Pre-Workout,3,10162,30486,Card
+516,2024-02-12,394,Rwamagana,Vitamins Complex,Vitamins,2,27015,54030,Cash
+517,2024-02-13,106,Rwamagana,Whey Protein,Whey,4,12014,48056,Card
+518,2024-10-11,70,Rubavu,Optimum Nutrition Creatine,Creatine,1,10204,10204,Card
+519,2024-01-12,301,Musanze,Creatine Monohydrate,Creatine,4,19032,76128,Cash
+520,2024-04-04,338,Rwamagana,Whey Protein,Whey,4,12643,50572,Card
+521,2024-10-28,21,Huye,Whey Protein,Whey,2,27258,54516,Mobile Money
+522,2024-09-09,7,Rwamagana,Creatine Monohydrate,Creatine,4,27073,108292,Card
+523,2024-08-29,160,Rubavu,Whey Protein,Whey,2,24289,48578,Card
+524,2024-02-04,148,Rubavu,PreWorkout X,Pre-Workout,4,25562,102248,Bank Transfer
+525,2024-08-02,199,Kigali,Energy Extreme,Energy,4,21918,87672,Mobile Money
+526,2024-12-02,154,Rubavu,PreWorkout X,Pre-Workout,1,27833,27833,Cash
+527,2024-03-30,384,Huye,Whey Protein,Whey,4,13959,55836,Bank Transfer
+528,2024-09-20,165,Rubavu,Energy Extreme,Energy,2,15432,30864,Mobile Money
+529,2024-04-02,82,Rwamagana,PreWorkout X,Pre-Workout,2,32548,65096,Card
+530,2024-03-30,218,Musanze,Whey Protein,Whey,1,30054,30054,Bank Transfer
+531,2024-04-24,371,Huye,PreWorkout X,Pre-Workout,1,28322,28322,Card
+532,2024-04-14,161,Rwamagana,Whey Protein,Whey,1,20123,20123,Bank Transfer
+533,2024-07-14,383,Huye,Whey Protein,Whey,2,34259,68518,Card
+534,2024-11-09,327,Kigali,Vitamins Complex,Vitamins,2,25352,50704,Cash
+535,2024-04-23,289,Huye,Energy Extreme,Energy,2,29446,58892,Cash
+536,2024-03-15,61,Rwamagana,Optimum Nutrition Creatine,Creatine,1,19879,19879,Card
+537,2024-08-04,28,Kigali,Optimum Nutrition Creatine,Creatine,1,17521,17521,Bank Transfer
+538,2024-10-03,169,Rwamagana,Whey Protein,Whey,2,28474,56948,Bank Transfer
+539,2024-09-05,177,Kigali,PreWorkout X,Pre-Workout,3,21861,65583,Bank Transfer
+540,2024-06-12,198,Rwamagana,Energy Extreme,Energy,1,11633,11633,Bank Transfer
+541,2024-12-22,330,Huye,Energy Extreme,Energy,2,13648,27296,Mobile Money
+542,2024-07-10,22,Huye,Whey Protein,Whey,1,27921,27921,Mobile Money
+543,2024-08-14,66,Huye,Vitamins Complex,Vitamins,0,23368,0,Bank Transfer
+544,2024-06-25,144,Kigali,Vitamins Complex,Vitamins,2,10097,20194,Cash
+545,2024-04-08,125,Musanze,Energy Extreme,Energy,4,22722,90888,Bank Transfer
+546,2024-02-05,294,Huye,Whey Protein,Whey,3,18535,55605,Mobile Money
+547,2024-04-05,138,Musanze,Whey Protein,Whey,4,14666,58664,Card
+548,2024-05-31,243,Musanze,Energy Extreme,Energy,3,11727,35181,Mobile Money
+549,2024-05-30,32,Rubavu,Creatine Monohydrate,Creatine,3,20800,62400,Card
+550,2024-07-08,20,Huye,PreWorkout X,Pre-Workout,3,28708,86124,Bank Transfer
+551,2024-08-11,366,Rubavu,Optimum Nutrition Creatine,Creatine,2,19283,38566,Bank Transfer
+552,2024-02-06,376,Musanze,Energy Extreme,Energy,4,15774,63096,Card
+553,2024-09-24,116,Kigali,Energy Extreme,Energy,4,28133,112532,Mobile Money
+554,2024-07-01,381,Rwamagana,Whey Protein,Whey,4,10781,43124,Mobile Money
+555,2024-01-13,58,Huye,Vitamins Complex,Vitamins,1,16823,16823,Card
+556,2024-10-05,369,Kigali,Vitamins Complex,Vitamins,4,17193,68772,Bank Transfer
+557,2024-08-04,248,Kigali,Energy Extreme,Energy,3,12113,36339,Bank Transfer
+558,2024-12-20,44,Rwamagana,Energy Extreme,Energy,2,30354,60708,Mobile Money
+559,2024-12-26,227,Rwamagana,Whey Protein,Whey,1,27961,27961,Mobile Money
+560,2024-10-12,279,Rubavu,Creatine Monohydrate,Creatine,2,25795,51590,Mobile Money
+561,2024-09-29,178,Rwamagana,PreWorkout X,Pre-Workout,1,28810,28810,Mobile Money
+562,2024-03-02,307,Kigali,Creatine Monohydrate,Creatine,3,16852,50556,Cash
+563,2024-03-24,268,Rwamagana,PreWorkout X,Pre-Workout,3,12551,37653,Cash
+564,2024-08-04,297,Rubavu,Optimum Nutrition Creatine,Creatine,2,26391,52782,Mobile Money
+565,2024-12-07,55,Rwamagana,Energy Extreme,Energy,4,17239,68956,Mobile Money
+566,2024-07-05,399,Rwamagana,PreWorkout X,Pre-Workout,1,31038,31038,Mobile Money
+567,2024-01-19,104,Rwamagana,Whey Protein,Whey,4,12285,49140,Bank Transfer
+568,2024-06-25,316,Kigali,Vitamins Complex,Vitamins,2,24889,49778,Card
+569,2024-04-09,268,Huye,Creatine Monohydrate,Creatine,4,29909,119636,Card
+570,2024-08-20,336,Rubavu,PreWorkout X,Pre-Workout,2,29206,58412,Cash
+571,2024-03-16,259,Musanze,Whey Protein,Whey,3,21116,63348,Cash
+572,2024-09-21,363,Musanze,Creatine Monohydrate,Creatine,3,23937,71811,Mobile Money
+573,2024-10-10,220,Rwamagana,Vitamins Complex,Vitamins,4,16629,66516,Cash
+574,2024-07-24,8,Kigali,Energy Extreme,Energy,1,31494,31494,Card
+575,2024-08-10,176,Rubavu,Whey Protein,Whey,1,24203,24203,Mobile Money
+576,2024-02-21,366,Rubavu,Optimum Nutrition Creatine,Creatine,3,12307,36921,Bank Transfer
+577,2024-12-04,32,Musanze,Whey Protein,Whey,2,15906,31812,Mobile Money
+578,2024-05-23,375,Kigali,Creatine Monohydrate,Creatine,1,25149,25149,Card
+579,2024-03-09,63,Musanze,Creatine Monohydrate,Creatine,4,31632,126528,Cash
+580,2024-04-08,21,Rubavu,PreWorkout X,Pre-Workout,1,20102,20102,Cash
+581,2024-01-25,162,Kigali,Whey Protein,Whey,2,30748,61496,Card
+582,2024-02-22,102,Huye,Whey Protein,Whey,4,10923,43692,Mobile Money
+583,2024-05-30,128,Rwamagana,Vitamins Complex,Vitamins,2,18438,36876,Cash
+584,2024-05-23,25,Rubavu,Optimum Nutrition Creatine,Creatine,3,18004,54012,Cash
+585,2024-02-26,196,Rwamagana,PreWorkout X,Pre-Workout,3,20592,61776,Mobile Money
+586,2024-02-08,382,Kigali,Energy Extreme,Energy,1,34217,34217,Cash
+587,2024-04-18,227,Huye,PreWorkout X,Pre-Workout,2,33172,66344,Mobile Money
+588,2024-06-29,265,Rwamagana,Vitamins Complex,Vitamins,1,21739,21739,Bank Transfer
+589,2024-02-11,134,Kigali,Vitamins Complex,Vitamins,4,21749,86996,Mobile Money
+590,2024-07-04,377,Musanze,PreWorkout X,Pre-Workout,3,26299,78897,Cash
+591,2024-08-10,364,Huye,Creatine Monohydrate,Creatine,3,31953,95859,Cash
+592,2024-05-01,213,Kigali,Vitamins Complex,Vitamins,4,28888,115552,Card
+593,2024-05-12,131,Rubavu,Vitamins Complex,Vitamins,4,23537,94148,Bank Transfer
+594,2024-06-11,286,Huye,PreWorkout X,Pre-Workout,4,22763,91052,Cash
+595,2024-08-02,277,Huye,Optimum Nutrition Creatine,Creatine,2,14079,28158,Cash
+596,2024-08-08,218,Huye,Energy Extreme,Energy,4,30215,120860,Cash
+597,2024-08-22,34,Rwamagana,Optimum Nutrition Creatine,Creatine,2,28099,56198,Mobile Money
+598,2024-11-26,338,Huye,Whey Protein,Whey,1,16450,16450,Mobile Money
+599,2024-05-25,279,Rwamagana,Vitamins Complex,Vitamins,2,11098,22196,Bank Transfer
+600,2024-08-26,150,Kigali,Energy Extreme,Energy,4,19087,76348,Cash
+601,2024-03-16,108,Kigali,Creatine Monohydrate,Creatine,1,16980,16980,Mobile Money
+602,2024-01-09,271,Huye,Optimum Nutrition Creatine,Creatine,3,21101,63303,Bank Transfer
+603,2024-03-14,289,Kigali,Creatine Monohydrate,Creatine,3,19122,57366,Bank Transfer
+604,2024-09-09,66,Musanze,Vitamins Complex,Vitamins,4,32433,129732,Card
+605,2024-08-17,248,Kigali,Vitamins Complex,Vitamins,3,19127,57381,Mobile Money
+606,2024-01-07,201,Huye,PreWorkout X,Pre-Workout,4,-11958,-47832,Bank Transfer
+607,2024-06-22,247,Rubavu,Creatine Monohydrate,Creatine,4,32528,130112,Cash
+608,2024-05-20,4,Huye,Vitamins Complex,Vitamins,3,19794,59382,Bank Transfer
+609,2024-06-16,303,Rubavu,Vitamins Complex,Vitamins,2,32424,64848,Cash
+610,2024-06-18,191,Rwamagana,PreWorkout X,Pre-Workout,2,-24478,-48956,Mobile Money
+611,2024-10-09,313,Rubavu,Creatine Monohydrate,Creatine,1,-16370,-16370,Bank Transfer
+612,2024-05-01,302,Huye,Creatine Monohydrate,Creatine,1,27332,27332,Cash
+613,2024-07-12,39,Rubavu,Vitamins Complex,Vitamins,4,26013,104052,Cash
+614,2024-01-05,252,Rubavu,Creatine Monohydrate,Creatine,1,22130,22130,Mobile Money
+615,2024-01-29,210,Musanze,Optimum Nutrition Creatine,Creatine,1,33758,33758,Cash
+616,2024-06-13,251,Rwamagana,Whey Protein,Whey,3,31125,93375,Cash
+617,2024-12-04,91,Huye,PreWorkout X,Pre-Workout,3,12454,37362,Bank Transfer
+618,2024-05-15,46,Rubavu,Optimum Nutrition Creatine,Creatine,2,25223,50446,Cash
+619,2024-12-30,100,Musanze,Vitamins Complex,Vitamins,2,10141,20282,Bank Transfer
+620,2024-11-16,190,Rwamagana,Vitamins Complex,Vitamins,1,19031,19031,Cash
+621,2024-12-07,30,Rubavu,Energy Extreme,Energy,3,23970,71910,Bank Transfer
+622,2024-05-24,84,Rwamagana,Energy Extreme,Energy,3,22109,66327,Cash
+623,2024-11-22,344,Rubavu,Optimum Nutrition Creatine,Creatine,1,18472,18472,Cash
+624,2024-08-04,102,Kigali,Creatine Monohydrate,Creatine,2,14249,28498,Card
+625,2024-10-27,83,Rubavu,PreWorkout X,Pre-Workout,3,31141,93423,Card
+626,2024-05-11,387,Rubavu,Energy Extreme,Energy,2,25282,50564,Card
+627,2024-10-18,201,Kigali,Energy Extreme,Energy,2,31778,63556,Bank Transfer
+628,2024-03-10,173,Kigali,Energy Extreme,Energy,4,-15075,-60300,Card
+629,2024-09-08,73,Kigali,Energy Extreme,Energy,3,17230,51690,Bank Transfer
+630,2024-10-01,375,Musanze,Whey Protein,Whey,3,23947,71841,Mobile Money
+631,2024-12-29,275,Rubavu,Whey Protein,Whey,1,27915,27915,Cash
+632,2024-06-30,398,Huye,Whey Protein,Whey,3,33539,100617,Cash
+633,2024-06-15,317,Kigali,Vitamins Complex,Vitamins,4,27317,109268,Bank Transfer
+634,2024-03-31,286,Rwamagana,PreWorkout X,Pre-Workout,4,20704,82816,Mobile Money
+635,2024-07-20,376,Rwamagana,Whey Protein,Whey,1,16816,16816,Mobile Money
+636,2024-12-11,142,Kigali,Vitamins Complex,Vitamins,4,24424,97696,Card
+637,2024-01-19,334,Rubavu,Energy Extreme,Energy,3,28146,84438,Mobile Money
+638,2024-02-08,196,Rubavu,Optimum Nutrition Creatine,Creatine,2,10040,20080,Card
+639,2024-05-05,264,Musanze,Vitamins Complex,Vitamins,3,18259,54777,Card
+640,2024-06-21,125,Rwamagana,Vitamins Complex,Vitamins,2,26232,52464,Bank Transfer
+641,2024-05-20,120,Musanze,Whey Protein,Whey,2,32101,64202,Cash
+642,2024-08-29,183,Huye,Optimum Nutrition Creatine,Creatine,0,15374,0,Card
+643,2024-08-07,62,Musanze,Optimum Nutrition Creatine,Creatine,4,12524,50096,Cash
+644,2024-05-05,158,Rwamagana,PreWorkout X,Pre-Workout,1,28863,28863,Mobile Money
+645,2024-02-27,267,Kigali,Optimum Nutrition Creatine,Creatine,4,31538,126152,Mobile Money
+646,2024-05-27,255,Rubavu,Optimum Nutrition Creatine,Creatine,4,11492,45968,Mobile Money
+647,2024-11-12,304,Huye,PreWorkout X,Pre-Workout,1,27732,27732,Bank Transfer
+648,2024-12-26,172,Musanze,Whey Protein,Whey,4,22132,88528,Cash
+649,2024-01-01,201,Kigali,Whey Protein,Whey,1,17156,17156,Mobile Money
+650,2024-12-13,35,Kigali,Creatine Monohydrate,Creatine,1,23635,23635,Bank Transfer
+651,2024-07-08,216,Huye,Vitamins Complex,Vitamins,1,30961,30961,Mobile Money
+652,2024-07-09,8,Rubavu,Vitamins Complex,Vitamins,4,21328,85312,Bank Transfer
+653,2024-11-07,332,Rubavu,Energy Extreme,Energy,1,10342,10342,Card
+654,2024-04-26,174,Rubavu,Optimum Nutrition Creatine,Creatine,2,21851,43702,Bank Transfer
+655,2024-05-13,361,Musanze,Energy Extreme,Energy,3,26910,80730,Cash
+656,2024-02-27,232,Rwamagana,Whey Protein,Whey,3,33132,99396,Card
+657,2024-02-13,38,Musanze,Optimum Nutrition Creatine,Creatine,1,34370,34370,Card
+658,2024-06-21,179,Huye,Whey Protein,Whey,4,30124,120496,Bank Transfer
+659,2024-06-08,348,Kigali,Whey Protein,Whey,4,28230,112920,Card
+660,2024-06-21,76,Rwamagana,Optimum Nutrition Creatine,Creatine,4,10771,43084,Cash
+661,2024-11-12,342,Kigali,Creatine Monohydrate,Creatine,1,18770,18770,Mobile Money
+662,2024-10-29,162,Rwamagana,Whey Protein,Whey,4,10193,40772,Cash
+663,2024-05-28,361,Kigali,Creatine Monohydrate,Creatine,3,21190,63570,Mobile Money
+664,2024-03-20,262,Huye,Vitamins Complex,Vitamins,1,19302,19302,Bank Transfer
+665,2024-07-31,210,Huye,Vitamins Complex,Vitamins,2,30120,60240,Bank Transfer
+666,2024-07-21,268,Huye,Whey Protein,Whey,1,16716,16716,Cash
+667,2024-09-08,283,Huye,Whey Protein,Whey,2,18921,37842,Bank Transfer
+668,2024-08-16,380,Huye,Vitamins Complex,Vitamins,4,23778,95112,Card
+669,2024-06-12,93,Kigali,Vitamins Complex,Vitamins,2,34000,68000,Bank Transfer
+670,2024-08-14,355,Rwamagana,Energy Extreme,Energy,1,12800,12800,Card
+671,2024-05-26,291,Rubavu,Energy Extreme,Energy,4,18333,73332,Bank Transfer
+672,2024-01-20,340,Musanze,Whey Protein,Whey,4,33276,133104,Mobile Money
+673,2024-02-16,141,Kigali,Whey Protein,Whey,0,15808,0,Cash
+674,2024-08-20,49,Rwamagana,PreWorkout X,Pre-Workout,1,31477,31477,Mobile Money
+675,2024-10-31,190,Musanze,Optimum Nutrition Creatine,Creatine,2,31360,62720,Cash
+676,2024-01-14,380,Rwamagana,Creatine Monohydrate,Creatine,4,14650,58600,Cash
+677,2024-05-22,295,Rubavu,Vitamins Complex,Vitamins,1,14697,14697,Card
+678,2024-01-01,192,Huye,Vitamins Complex,Vitamins,1,13828,13828,Card
+679,2024-02-23,310,Musanze,PreWorkout X,Pre-Workout,2,15482,30964,Cash
+680,2024-09-15,265,Rubavu,Vitamins Complex,Vitamins,2,-32760,-65520,Bank Transfer
+681,2024-05-23,305,Musanze,Whey Protein,Whey,4,23860,95440,Mobile Money
+682,2024-01-12,277,Rwamagana,Vitamins Complex,Vitamins,1,10855,10855,Mobile Money
+683,2024-11-25,183,Rubavu,PreWorkout X,Pre-Workout,3,21834,65502,Cash
+684,2024-08-11,397,Kigali,Optimum Nutrition Creatine,Creatine,1,32054,32054,Cash
+685,2024-09-28,147,Rwamagana,Whey Protein,Whey,4,25114,100456,Card
+686,2024-12-23,127,Rubavu,Optimum Nutrition Creatine,Creatine,3,27740,83220,Card
+687,2024-06-04,1,Huye,Creatine Monohydrate,Creatine,2,30012,60024,Cash
+688,2024-01-08,332,Huye,Creatine Monohydrate,Creatine,4,18210,72840,Cash
+689,2024-05-01,109,Huye,Whey Protein,Whey,4,22743,90972,Card
+690,2024-12-13,240,Rwamagana,Optimum Nutrition Creatine,Creatine,4,16588,66352,Bank Transfer
+691,2024-06-12,250,Musanze,Creatine Monohydrate,Creatine,1,32630,32630,Mobile Money
+692,2024-03-30,153,Rubavu,Creatine Monohydrate,Creatine,0,14615,0,Mobile Money
+693,2024-05-15,343,Rubavu,Optimum Nutrition Creatine,Creatine,3,34749,104247,Card
+694,2024-07-04,215,Rubavu,Optimum Nutrition Creatine,Creatine,2,13052,26104,Cash
+695,2024-11-11,340,Huye,Whey Protein,Whey,1,32190,32190,Mobile Money
+696,2024-06-26,324,Rwamagana,Energy Extreme,Energy,2,23969,47938,Bank Transfer
+697,2024-01-28,127,Rubavu,Creatine Monohydrate,Creatine,2,13744,27488,Cash
+698,2024-08-07,147,Musanze,Energy Extreme,Energy,4,26977,107908,Cash
+699,2024-12-22,84,Rwamagana,Energy Extreme,Energy,0,20651,0,Bank Transfer
+700,2024-02-10,332,Kigali,Creatine Monohydrate,Creatine,1,13808,13808,Bank Transfer
+701,2024-08-15,143,Huye,PreWorkout X,Pre-Workout,2,34306,68612,Bank Transfer
+702,2024-07-10,285,Musanze,Optimum Nutrition Creatine,Creatine,1,-15889,-15889,Bank Transfer
+703,2024-05-24,307,Rwamagana,Optimum Nutrition Creatine,Creatine,1,26585,26585,Bank Transfer
+704,2024-07-19,210,Rwamagana,Whey Protein,Whey,3,19101,57303,Card
+705,2024-07-30,201,Rwamagana,Whey Protein,Whey,3,21381,64143,Mobile Money
+706,2024-08-07,28,Rubavu,Optimum Nutrition Creatine,Creatine,1,17718,17718,Cash
+707,2024-08-27,155,Rubavu,Optimum Nutrition Creatine,Creatine,3,29539,88617,Cash
+708,2024-02-15,93,Rubavu,PreWorkout X,Pre-Workout,1,21777,21777,Card
+709,2024-02-04,350,Kigali,Energy Extreme,Energy,2,10386,20772,Card
+710,2024-09-09,81,Rubavu,Optimum Nutrition Creatine,Creatine,4,32785,131140,Cash
+711,2024-03-22,235,Rwamagana,Energy Extreme,Energy,1,28850,28850,Card
+712,2024-09-12,301,Musanze,Whey Protein,Whey,1,25670,25670,Bank Transfer
+713,2024-07-15,213,Musanze,Vitamins Complex,Vitamins,3,15476,46428,Card
+714,2024-10-29,127,Huye,PreWorkout X,Pre-Workout,2,22336,44672,Mobile Money
+715,2024-01-10,279,Kigali,Vitamins Complex,Vitamins,3,17064,51192,Card
+716,2024-11-07,294,Musanze,Vitamins Complex,Vitamins,4,15624,62496,Card
+717,2024-10-12,107,Kigali,Energy Extreme,Energy,4,20516,82064,Bank Transfer
+718,2024-08-29,99,Kigali,Whey Protein,Whey,2,32947,65894,Mobile Money
+719,2024-09-07,73,Kigali,PreWorkout X,Pre-Workout,1,34950,34950,Bank Transfer
+720,2024-12-30,122,Kigali,Vitamins Complex,Vitamins,1,20213,20213,Cash
+721,2024-01-05,364,Rwamagana,Vitamins Complex,Vitamins,2,13259,26518,Cash
+722,2024-04-28,195,Kigali,Energy Extreme,Energy,2,11823,23646,Cash
+723,2024-10-15,335,Rubavu,Optimum Nutrition Creatine,Creatine,4,29627,118508,Card
+724,2024-03-05,23,Kigali,PreWorkout X,Pre-Workout,1,13134,13134,Bank Transfer
+725,2024-05-25,48,Huye,Energy Extreme,Energy,4,25434,101736,Mobile Money
+726,2024-08-11,313,Rubavu,Whey Protein,Whey,4,20233,80932,Cash
+727,2024-08-26,380,Rubavu,Creatine Monohydrate,Creatine,2,28019,56038,Cash
+728,2024-06-25,167,Huye,Creatine Monohydrate,Creatine,1,20135,20135,Mobile Money
+729,2024-09-23,156,Rubavu,Whey Protein,Whey,2,32967,65934,Cash
+730,2024-12-06,196,Rubavu,PreWorkout X,Pre-Workout,1,26390,26390,Mobile Money
+731,2024-10-08,193,Rubavu,Energy Extreme,Energy,1,31312,31312,Card
+732,2024-03-03,275,Rwamagana,Whey Protein,Whey,3,21411,64233,Mobile Money
+733,2024-08-04,126,Rubavu,Vitamins Complex,Vitamins,1,29657,29657,Bank Transfer
+734,2024-12-07,294,Kigali,Optimum Nutrition Creatine,Creatine,3,21120,63360,Mobile Money
+735,2024-11-10,392,Musanze,Creatine Monohydrate,Creatine,4,32852,131408,Bank Transfer
+736,2024-10-09,116,Rwamagana,Whey Protein,Whey,2,21951,43902,Cash
+737,2024-06-25,321,Rubavu,Optimum Nutrition Creatine,Creatine,4,25845,103380,Bank Transfer
+738,2024-04-07,113,Rwamagana,PreWorkout X,Pre-Workout,3,25747,77241,Card
+739,2024-04-14,325,Rwamagana,Whey Protein,Whey,0,19649,0,Cash
+740,2024-04-08,344,Kigali,Whey Protein,Whey,2,19591,39182,Cash
+741,2024-11-06,45,Musanze,Optimum Nutrition Creatine,Creatine,3,32602,97806,Cash
+742,2024-01-06,155,Rubavu,Energy Extreme,Energy,4,34217,136868,Mobile Money
+743,2024-07-15,363,Rubavu,PreWorkout X,Pre-Workout,2,24325,48650,Cash
+744,2024-12-16,234,Rubavu,Optimum Nutrition Creatine,Creatine,4,26346,105384,Card
+745,2024-05-12,315,Kigali,Vitamins Complex,Vitamins,3,28693,86079,Bank Transfer
+746,2024-12-23,245,Huye,Whey Protein,Whey,1,27294,27294,Bank Transfer
+747,2024-09-15,122,Rubavu,Vitamins Complex,Vitamins,2,30393,60786,Cash
+748,2024-01-23,170,Rubavu,Optimum Nutrition Creatine,Creatine,0,32052,0,Mobile Money
+749,2024-02-22,35,Kigali,Vitamins Complex,Vitamins,4,18036,72144,Cash
+750,2024-06-13,196,Huye,Optimum Nutrition Creatine,Creatine,3,33173,99519,Card
+751,2024-07-20,201,Rwamagana,Optimum Nutrition Creatine,Creatine,2,16139,32278,Card
+752,2024-03-23,126,Musanze,Energy Extreme,Energy,1,30538,30538,Mobile Money
+753,2024-05-24,109,Kigali,Whey Protein,Whey,4,11936,47744,Bank Transfer
+754,2024-03-25,278,Musanze,PreWorkout X,Pre-Workout,4,17151,68604,Cash
+755,2024-03-18,305,Huye,Vitamins Complex,Vitamins,4,13236,52944,Mobile Money
+756,2024-01-01,365,Kigali,Creatine Monohydrate,Creatine,1,20913,20913,Card
+757,2024-02-20,379,Rwamagana,Vitamins Complex,Vitamins,2,31300,62600,Cash
+758,2024-06-21,387,Huye,Creatine Monohydrate,Creatine,3,27330,81990,Bank Transfer
+759,2024-07-23,109,Rubavu,Whey Protein,Whey,2,19569,39138,Mobile Money
+760,2024-09-16,341,Kigali,PreWorkout X,Pre-Workout,3,14857,44571,Cash
+761,2024-10-14,21,Huye,Energy Extreme,Energy,2,26766,53532,Bank Transfer
+762,2024-02-03,359,Rwamagana,Vitamins Complex,Vitamins,4,10138,40552,Bank Transfer
+763,2024-12-13,385,Musanze,Creatine Monohydrate,Creatine,4,19714,78856,Card
+764,2024-04-04,397,Rubavu,Vitamins Complex,Vitamins,4,25996,103984,Card
+765,2024-03-12,273,Huye,Whey Protein,Whey,3,23283,69849,Card
+766,2024-02-08,338,Rwamagana,Creatine Monohydrate,Creatine,3,30219,90657,Bank Transfer
+767,2024-06-02,249,Rwamagana,Creatine Monohydrate,Creatine,4,19429,77716,Mobile Money
+768,2024-09-06,275,Kigali,Creatine Monohydrate,Creatine,4,16905,67620,Mobile Money
+769,2024-06-10,8,Kigali,Whey Protein,Whey,1,26212,26212,Mobile Money
+770,2024-04-27,145,Rwamagana,Vitamins Complex,Vitamins,4,24852,99408,Bank Transfer
+771,2024-09-15,374,Rwamagana,PreWorkout X,Pre-Workout,1,20403,20403,Mobile Money
+772,2024-11-01,64,Musanze,Energy Extreme,Energy,3,20238,60714,Card
+773,2024-09-24,354,Rubavu,Vitamins Complex,Vitamins,3,11140,33420,Card
+774,2024-02-23,47,Rubavu,Vitamins Complex,Vitamins,3,11708,35124,Card
+775,2024-08-23,149,Musanze,Energy Extreme,Energy,4,20485,81940,Bank Transfer
+776,2024-08-09,5,Kigali,Optimum Nutrition Creatine,Creatine,2,32922,65844,Bank Transfer
+777,2024-09-07,20,Rwamagana,Creatine Monohydrate,Creatine,1,11207,11207,Cash
+778,2024-11-08,12,Huye,Optimum Nutrition Creatine,Creatine,1,10557,10557,Card
+779,2024-04-21,147,Rubavu,Vitamins Complex,Vitamins,2,10882,21764,Card
+780,2024-09-11,308,Rwamagana,Creatine Monohydrate,Creatine,2,15867,31734,Bank Transfer
+781,2024-10-29,183,Rwamagana,PreWorkout X,Pre-Workout,4,22869,91476,Bank Transfer
+782,2024-07-25,102,Rubavu,Vitamins Complex,Vitamins,2,15347,30694,Bank Transfer
+783,2024-08-16,216,Huye,Whey Protein,Whey,3,34509,103527,Cash
+784,2024-12-06,203,Huye,Whey Protein,Whey,3,30878,92634,Card
+785,2024-03-06,242,Rwamagana,PreWorkout X,Pre-Workout,4,12808,51232,Mobile Money
+786,2024-03-15,219,Rubavu,Energy Extreme,Energy,0,32452,0,Mobile Money
+787,2024-04-12,175,Huye,PreWorkout X,Pre-Workout,2,31083,62166,Cash
+788,2024-07-10,391,Rubavu,PreWorkout X,Pre-Workout,3,29203,87609,Cash
+789,2024-09-08,48,Kigali,Optimum Nutrition Creatine,Creatine,1,30642,30642,Cash
+790,2024-08-13,328,Musanze,Whey Protein,Whey,3,25688,77064,Cash
+791,2024-10-20,337,Rwamagana,Vitamins Complex,Vitamins,4,17084,68336,Cash
+792,2024-11-01,352,Huye,Energy Extreme,Energy,1,25072,25072,Cash
+793,2024-04-07,63,Rwamagana,Vitamins Complex,Vitamins,4,24482,97928,Card
+794,2024-12-03,325,Rubavu,PreWorkout X,Pre-Workout,2,31826,63652,Card
+795,2024-10-12,189,Musanze,Creatine Monohydrate,Creatine,1,34045,34045,Cash
+796,2024-11-30,208,Musanze,Optimum Nutrition Creatine,Creatine,3,34566,103698,Cash
+797,2024-12-12,349,Kigali,Energy Extreme,Energy,2,30501,61002,Card
+798,2024-11-03,323,Rwamagana,PreWorkout X,Pre-Workout,2,31162,62324,Cash
+799,2024-09-05,298,Musanze,Energy Extreme,Energy,2,29337,58674,Card
+800,2024-06-14,277,Rwamagana,Vitamins Complex,Vitamins,4,-22413,-89652,Bank Transfer
+801,2024-11-30,194,Kigali,Energy Extreme,Energy,4,27611,110444,Mobile Money
+802,2024-01-30,35,Kigali,PreWorkout X,Pre-Workout,1,30119,30119,Cash
+803,2024-09-03,222,Kigali,Optimum Nutrition Creatine,Creatine,4,30536,122144,Bank Transfer
+804,2024-04-15,370,Kigali,Vitamins Complex,Vitamins,3,22306,66918,Cash
+805,2024-02-20,113,Musanze,Creatine Monohydrate,Creatine,4,29225,116900,Bank Transfer
+806,2024-03-21,30,Rwamagana,Vitamins Complex,Vitamins,4,21590,86360,Bank Transfer
+807,2024-05-12,65,Musanze,Creatine Monohydrate,Creatine,3,22866,68598,Cash
+808,2024-10-11,37,Rwamagana,Optimum Nutrition Creatine,Creatine,4,10024,40096,Bank Transfer
+809,2024-05-17,141,Rubavu,Energy Extreme,Energy,1,32052,32052,Card
+810,2024-07-02,389,Rwamagana,Vitamins Complex,Vitamins,0,22935,0,Bank Transfer
+811,2024-11-25,201,Kigali,PreWorkout X,Pre-Workout,4,17295,69180,Mobile Money
+812,2024-09-29,164,Rubavu,Creatine Monohydrate,Creatine,3,18448,55344,Bank Transfer
+813,2024-12-05,191,Rwamagana,Energy Extreme,Energy,3,20433,61299,Card
+814,2024-03-09,290,Kigali,Vitamins Complex,Vitamins,4,21528,86112,Bank Transfer
+815,2024-02-03,260,Musanze,Creatine Monohydrate,Creatine,2,25743,51486,Mobile Money
+816,2024-09-18,358,Kigali,PreWorkout X,Pre-Workout,2,12014,24028,Card
+817,2024-02-22,72,Rwamagana,PreWorkout X,Pre-Workout,3,29810,89430,Bank Transfer
+818,2024-07-23,188,Kigali,Creatine Monohydrate,Creatine,3,19101,57303,Bank Transfer
+819,2024-05-05,290,Huye,Optimum Nutrition Creatine,Creatine,1,21948,21948,Card
+820,2024-08-22,123,Kigali,PreWorkout X,Pre-Workout,1,28514,28514,Card
+821,2024-02-12,66,Rwamagana,Vitamins Complex,Vitamins,2,32031,64062,Mobile Money
+822,2024-08-27,375,Kigali,PreWorkout X,Pre-Workout,4,15776,63104,Card
+823,2024-04-20,380,Rubavu,Vitamins Complex,Vitamins,2,34297,68594,Card
+824,2024-09-05,188,Rubavu,Energy Extreme,Energy,4,25717,102868,Mobile Money
+825,2024-05-30,13,Huye,PreWorkout X,Pre-Workout,2,22737,45474,Mobile Money
+826,2024-07-01,290,Kigali,PreWorkout X,Pre-Workout,4,20350,81400,Mobile Money
+827,2024-12-01,215,Huye,PreWorkout X,Pre-Workout,3,-12951,-38853,Bank Transfer
+828,2024-04-04,382,Kigali,Optimum Nutrition Creatine,Creatine,2,14727,29454,Mobile Money
+829,2024-01-08,221,Rubavu,Energy Extreme,Energy,3,13701,41103,Bank Transfer
+830,2024-12-25,295,Kigali,Vitamins Complex,Vitamins,3,-27972,-83916,Bank Transfer
+831,2024-07-02,158,Kigali,PreWorkout X,Pre-Workout,1,25592,25592,Cash
+832,2024-10-07,21,Rwamagana,Energy Extreme,Energy,0,12828,0,Card
+833,2024-07-13,275,Kigali,Vitamins Complex,Vitamins,3,23364,70092,Cash
+834,2024-12-17,31,Rwamagana,Energy Extreme,Energy,1,25061,25061,Mobile Money
+835,2024-07-13,23,Huye,Creatine Monohydrate,Creatine,1,26566,26566,Mobile Money
+836,2024-06-03,74,Rubavu,Optimum Nutrition Creatine,Creatine,4,15565,62260,Mobile Money
+837,2024-04-02,54,Musanze,Vitamins Complex,Vitamins,2,34035,68070,Card
+838,2024-06-08,370,Rwamagana,Whey Protein,Whey,4,10159,40636,Mobile Money
+839,2024-03-01,366,Musanze,Creatine Monohydrate,Creatine,2,16555,33110,Cash
+840,2024-05-01,335,Huye,Creatine Monohydrate,Creatine,4,18244,72976,Card
+841,2024-02-20,191,Musanze,PreWorkout X,Pre-Workout,2,23341,46682,Bank Transfer
+842,2024-10-03,59,Rwamagana,Energy Extreme,Energy,4,11228,44912,Cash
+843,2024-01-05,12,Huye,Creatine Monohydrate,Creatine,3,33303,99909,Cash
+844,2024-04-01,290,Musanze,Creatine Monohydrate,Creatine,3,16046,48138,Bank Transfer
+845,2024-06-18,354,Rubavu,PreWorkout X,Pre-Workout,2,17927,35854,Mobile Money
+846,2024-11-12,361,Rubavu,Vitamins Complex,Vitamins,3,23386,70158,Card
+847,2024-01-22,79,Rwamagana,PreWorkout X,Pre-Workout,4,25920,103680,Mobile Money
+848,2024-11-21,241,Musanze,Creatine Monohydrate,Creatine,1,31470,31470,Mobile Money
+849,2024-01-01,154,Musanze,Whey Protein,Whey,2,28268,56536,Cash
+850,2024-05-12,214,Rwamagana,Energy Extreme,Energy,2,13167,26334,Bank Transfer
+851,2024-08-20,343,Rubavu,Optimum Nutrition Creatine,Creatine,2,32736,65472,Card
+852,2024-01-12,390,Musanze,Creatine Monohydrate,Creatine,4,24087,96348,Bank Transfer
+853,2024-12-11,377,Kigali,Creatine Monohydrate,Creatine,1,25275,25275,Bank Transfer
+854,2024-02-15,156,Rwamagana,Whey Protein,Whey,4,15276,61104,Mobile Money
+855,2024-02-03,65,Musanze,Energy Extreme,Energy,3,14728,44184,Cash
+856,2024-03-18,162,Rwamagana,Whey Protein,Whey,3,30616,91848,Bank Transfer
+857,2024-08-05,100,Rubavu,Whey Protein,Whey,4,15571,62284,Card
+858,2024-10-27,307,Rwamagana,PreWorkout X,Pre-Workout,2,25246,50492,Bank Transfer
+859,2024-03-13,198,Huye,Creatine Monohydrate,Creatine,1,12224,12224,Bank Transfer
+860,2024-10-08,179,Rwamagana,Creatine Monohydrate,Creatine,4,25927,103708,Mobile Money
+861,2024-09-05,186,Rwamagana,Optimum Nutrition Creatine,Creatine,1,20640,20640,Mobile Money
+862,2024-02-16,316,Rubavu,Optimum Nutrition Creatine,Creatine,3,-16361,-49083,Card
+863,2024-04-30,120,Rubavu,PreWorkout X,Pre-Workout,3,-21992,-65976,Card
+864,2024-08-01,23,Huye,Vitamins Complex,Vitamins,3,16318,48954,Card
+865,2024-08-26,235,Kigali,Optimum Nutrition Creatine,Creatine,1,22180,22180,Card
+866,2024-02-25,364,Kigali,PreWorkout X,Pre-Workout,1,29991,29991,Mobile Money
+867,2024-12-15,281,Huye,Vitamins Complex,Vitamins,3,32288,96864,Bank Transfer
+868,2024-04-16,21,Rwamagana,Optimum Nutrition Creatine,Creatine,2,15832,31664,Bank Transfer
+869,2024-11-14,211,Kigali,Whey Protein,Whey,4,17122,68488,Card
+870,2024-02-17,298,Huye,Creatine Monohydrate,Creatine,4,11316,45264,Cash
+871,2024-03-01,304,Rwamagana,Energy Extreme,Energy,1,27508,27508,Cash
+872,2024-12-02,41,Huye,Vitamins Complex,Vitamins,3,28971,86913,Mobile Money
+873,2024-01-26,146,Rubavu,Creatine Monohydrate,Creatine,3,29758,89274,Mobile Money
+874,2024-10-18,227,Huye,Vitamins Complex,Vitamins,4,16093,64372,Cash
+875,2024-09-13,380,Rubavu,Optimum Nutrition Creatine,Creatine,4,31352,125408,Mobile Money
+876,2024-01-08,13,Huye,PreWorkout X,Pre-Workout,3,30456,91368,Mobile Money
+877,2024-04-22,100,Rubavu,Vitamins Complex,Vitamins,2,34972,69944,Bank Transfer
+878,2024-12-20,16,Rubavu,Whey Protein,Whey,3,25233,75699,Cash
+879,2024-09-09,166,Musanze,Energy Extreme,Energy,1,30808,30808,Card
+880,2024-06-28,100,Rubavu,PreWorkout X,Pre-Workout,3,30277,90831,Card
+881,2024-07-25,173,Musanze,Energy Extreme,Energy,1,20070,20070,Bank Transfer
+882,2024-10-29,393,Musanze,Vitamins Complex,Vitamins,1,34737,34737,Mobile Money
+883,2024-05-06,292,Rubavu,Whey Protein,Whey,4,33814,135256,Cash
+884,2024-02-25,28,Musanze,Energy Extreme,Energy,2,33554,67108,Mobile Money
+885,2024-08-01,149,Kigali,Vitamins Complex,Vitamins,2,26363,52726,Cash
+886,2024-01-14,310,Huye,Vitamins Complex,Vitamins,4,24823,99292,Card
+887,2024-01-28,356,Rwamagana,Creatine Monohydrate,Creatine,2,31568,63136,Bank Transfer
+888,2024-03-18,235,Huye,Energy Extreme,Energy,1,21515,21515,Cash
+889,2024-08-03,313,Musanze,Vitamins Complex,Vitamins,3,27932,83796,Mobile Money
+890,2024-12-30,54,Rwamagana,Energy Extreme,Energy,1,14213,14213,Card
+891,2024-06-02,44,Rwamagana,Energy Extreme,Energy,2,33092,66184,Card
+892,2024-01-14,74,Musanze,Energy Extreme,Energy,3,12100,36300,Card
+893,2024-07-05,102,Kigali,Whey Protein,Whey,2,30132,60264,Bank Transfer
+894,2024-11-07,337,Rubavu,PreWorkout X,Pre-Workout,4,13841,55364,Cash
+895,2024-01-07,138,Rubavu,Vitamins Complex,Vitamins,4,14493,57972,Bank Transfer
+896,2024-01-03,387,Kigali,Whey Protein,Whey,3,34472,103416,Cash
+897,2024-04-20,17,Kigali,Whey Protein,Whey,3,29045,87135,Bank Transfer
+898,2024-08-25,372,Huye,Whey Protein,Whey,4,13253,53012,Bank Transfer
+899,2024-12-28,171,Huye,Creatine Monohydrate,Creatine,4,22828,91312,Cash
+900,2024-08-26,188,Rwamagana,Energy Extreme,Energy,1,11401,11401,Card
+901,2024-09-30,340,Huye,Vitamins Complex,Vitamins,0,22096,0,Cash
+902,2024-10-20,272,Huye,Energy Extreme,Energy,3,29611,88833,Bank Transfer
+903,2024-08-14,104,Huye,Vitamins Complex,Vitamins,3,20704,62112,Mobile Money
+904,2024-01-15,283,Musanze,Optimum Nutrition Creatine,Creatine,4,12745,50980,Cash
+905,2024-07-10,170,Rubavu,Vitamins Complex,Vitamins,2,21956,43912,Bank Transfer
+906,2024-04-28,222,Rubavu,PreWorkout X,Pre-Workout,3,28606,85818,Mobile Money
+907,2024-01-28,391,Kigali,Optimum Nutrition Creatine,Creatine,1,25493,25493,Mobile Money
+908,2024-07-20,153,Musanze,Energy Extreme,Energy,4,27908,111632,Cash
+909,2024-02-08,7,Huye,Energy Extreme,Energy,1,32582,32582,Bank Transfer
+910,2024-09-29,12,Kigali,Vitamins Complex,Vitamins,4,30093,120372,Card
+911,2024-08-18,43,Huye,PreWorkout X,Pre-Workout,4,10719,42876,Mobile Money
+912,2024-03-26,135,Huye,Energy Extreme,Energy,1,30963,30963,Cash
+913,2024-05-05,160,Rubavu,Whey Protein,Whey,4,30786,123144,Bank Transfer
+914,2024-10-26,225,Rubavu,Creatine Monohydrate,Creatine,3,33303,99909,Card
+915,2024-01-25,45,Huye,Whey Protein,Whey,3,25064,75192,Card
+916,2024-05-24,195,Kigali,PreWorkout X,Pre-Workout,2,22903,45806,Mobile Money
+917,2024-01-13,157,Kigali,Whey Protein,Whey,1,18680,18680,Card
+918,2024-07-30,205,Huye,PreWorkout X,Pre-Workout,2,31729,63458,Bank Transfer
+919,2024-01-25,218,Kigali,Optimum Nutrition Creatine,Creatine,3,15243,45729,Mobile Money
+920,2024-03-08,104,Kigali,Energy Extreme,Energy,4,23913,95652,Card
+921,2024-03-07,133,Musanze,Creatine Monohydrate,Creatine,1,10630,10630,Cash
+922,2024-08-20,331,Kigali,PreWorkout X,Pre-Workout,0,20847,0,Card
+923,2024-04-18,278,Kigali,Whey Protein,Whey,3,33067,99201,Card
+924,2024-05-25,59,Huye,PreWorkout X,Pre-Workout,1,19744,19744,Bank Transfer
+925,2024-04-20,199,Rwamagana,PreWorkout X,Pre-Workout,2,17659,35318,Mobile Money
+926,2024-08-15,26,Musanze,Vitamins Complex,Vitamins,2,21704,43408,Mobile Money
+927,2024-04-20,301,Rubavu,Vitamins Complex,Vitamins,1,23705,23705,Mobile Money
+928,2024-02-03,181,Musanze,Creatine Monohydrate,Creatine,3,32794,98382,Card
+929,2024-04-20,351,Rubavu,Creatine Monohydrate,Creatine,4,23379,93516,Cash
+930,2024-09-20,321,Rwamagana,Creatine Monohydrate,Creatine,4,28378,113512,Card
+931,2024-08-23,102,Musanze,Creatine Monohydrate,Creatine,1,33091,33091,Mobile Money
+932,2024-03-23,188,Musanze,Vitamins Complex,Vitamins,4,33989,135956,Cash
+933,2024-02-11,159,Huye,Whey Protein,Whey,1,28990,28990,Cash
+934,2024-04-10,242,Rubavu,Optimum Nutrition Creatine,Creatine,1,31165,31165,Cash
+935,2024-01-06,370,Musanze,Vitamins Complex,Vitamins,2,19968,39936,Mobile Money
+936,2024-06-28,308,Huye,Optimum Nutrition Creatine,Creatine,1,34147,34147,Cash
+937,2024-10-08,248,Huye,PreWorkout X,Pre-Workout,1,24794,24794,Cash
+938,2024-11-15,226,Rubavu,Whey Protein,Whey,2,-11696,-23392,Mobile Money
+939,2024-08-13,61,Rwamagana,PreWorkout X,Pre-Workout,3,29167,87501,Bank Transfer
+940,2024-11-10,46,Kigali,Whey Protein,Whey,2,16420,32840,Mobile Money
+941,2024-12-30,294,Kigali,Energy Extreme,Energy,1,33941,33941,Bank Transfer
+942,2024-08-16,210,Kigali,Vitamins Complex,Vitamins,2,29029,58058,Card
+943,2024-10-15,397,Huye,Creatine Monohydrate,Creatine,2,-20541,-41082,Mobile Money
+944,2024-05-29,3,Huye,Energy Extreme,Energy,3,11757,35271,Bank Transfer
+945,2024-10-03,93,Rwamagana,PreWorkout X,Pre-Workout,2,15637,31274,Cash
+946,2024-07-16,235,Rubavu,Creatine Monohydrate,Creatine,4,21691,86764,Bank Transfer
+947,2024-03-10,240,Kigali,Creatine Monohydrate,Creatine,4,34272,137088,Cash
+948,2024-04-21,11,Rubavu,Vitamins Complex,Vitamins,3,24385,73155,Cash
+949,2024-01-04,70,Rwamagana,PreWorkout X,Pre-Workout,3,23979,71937,Card
+950,2024-12-15,68,Rubavu,Optimum Nutrition Creatine,Creatine,1,24607,24607,Bank Transfer
+951,2024-11-26,320,Musanze,Whey Protein,Whey,3,29127,87381,Mobile Money
+952,2024-11-13,332,Musanze,Energy Extreme,Energy,3,25449,76347,Cash
+953,2024-12-15,89,Rubavu,Whey Protein,Whey,3,18548,55644,Bank Transfer
+954,2024-04-04,311,Musanze,Whey Protein,Whey,2,17186,34372,Bank Transfer
+955,2024-05-31,371,Kigali,Whey Protein,Whey,2,10619,21238,Cash
+956,2024-11-06,125,Rubavu,Optimum Nutrition Creatine,Creatine,1,13642,13642,Card
+957,2024-05-16,107,Kigali,Whey Protein,Whey,2,11296,22592,Card
+958,2024-09-03,336,Rubavu,Vitamins Complex,Vitamins,3,34820,104460,Cash
+959,2024-08-30,247,Musanze,Creatine Monohydrate,Creatine,2,-27313,-54626,Mobile Money
+960,2024-01-31,362,Musanze,PreWorkout X,Pre-Workout,4,29596,118384,Bank Transfer
+961,2024-02-09,352,Huye,Creatine Monohydrate,Creatine,4,20717,82868,Mobile Money
+962,2024-08-16,94,Kigali,Energy Extreme,Energy,4,22782,91128,Bank Transfer
+963,2024-02-05,39,Huye,Vitamins Complex,Vitamins,0,33978,0,Bank Transfer
+964,2024-08-10,84,Musanze,Energy Extreme,Energy,1,22474,22474,Mobile Money
+965,2024-01-06,93,Rubavu,Vitamins Complex,Vitamins,4,32357,129428,Card
+966,2024-11-17,74,Rwamagana,Creatine Monohydrate,Creatine,2,22424,44848,Card
+967,2024-08-07,156,Rwamagana,Whey Protein,Whey,4,-28020,-112080,Card
+968,2024-03-15,171,Kigali,Creatine Monohydrate,Creatine,2,29710,59420,Card
+969,2024-01-04,252,Kigali,Optimum Nutrition Creatine,Creatine,1,28601,28601,Card
+970,2024-11-30,55,Huye,Whey Protein,Whey,0,28753,0,Bank Transfer
+971,2024-05-13,91,Huye,Creatine Monohydrate,Creatine,4,19135,76540,Cash
+972,2024-04-27,377,Musanze,Energy Extreme,Energy,2,25514,51028,Cash
+973,2024-04-03,364,Huye,Creatine Monohydrate,Creatine,1,17618,17618,Cash
+974,2024-03-02,10,Huye,PreWorkout X,Pre-Workout,1,11196,11196,Mobile Money
+975,2024-07-12,248,Musanze,Whey Protein,Whey,4,33816,135264,Bank Transfer
+976,2024-11-30,129,Kigali,Vitamins Complex,Vitamins,3,33073,99219,Bank Transfer
+977,2024-07-21,93,Musanze,Vitamins Complex,Vitamins,4,18792,75168,Bank Transfer
+978,2024-01-26,323,Kigali,Optimum Nutrition Creatine,Creatine,3,30208,90624,Mobile Money
+979,2024-06-21,117,Musanze,Creatine Monohydrate,Creatine,4,12451,49804,Bank Transfer
+980,2024-10-26,113,Kigali,Whey Protein,Whey,2,17778,35556,Card
+981,2024-05-12,346,Musanze,Optimum Nutrition Creatine,Creatine,3,30058,90174,Card
+982,2024-11-21,173,Rubavu,PreWorkout X,Pre-Workout,2,30753,61506,Mobile Money
+983,2024-04-27,181,Rwamagana,Vitamins Complex,Vitamins,4,14956,59824,Card
+984,2024-11-19,324,Musanze,Whey Protein,Whey,3,11105,33315,Mobile Money
+985,2024-10-01,257,Huye,Optimum Nutrition Creatine,Creatine,1,28545,28545,Mobile Money
+986,2024-07-30,365,Huye,PreWorkout X,Pre-Workout,2,34729,69458,Card
+987,2024-08-12,343,Rwamagana,Whey Protein,Whey,4,30083,120332,Card
+988,2024-01-20,203,Musanze,Energy Extreme,Energy,2,22602,45204,Card
+989,2024-04-22,389,Rwamagana,Vitamins Complex,Vitamins,1,30584,30584,Card
+990,2024-05-19,278,Kigali,Vitamins Complex,Vitamins,2,31904,63808,Mobile Money
+991,2024-02-16,221,Musanze,Energy Extreme,Energy,2,11772,23544,Bank Transfer
+992,2024-01-01,256,Kigali,PreWorkout X,Pre-Workout,4,22996,91984,Cash
+993,2024-03-30,149,Rubavu,Energy Extreme,Energy,3,12871,38613,Bank Transfer
+994,2024-05-21,371,Musanze,Whey Protein,Whey,3,20521,61563,Cash
+995,2024-11-15,188,Musanze,Creatine Monohydrate,Creatine,3,11132,33396,Mobile Money
+996,2024-02-07,327,Rwamagana,Optimum Nutrition Creatine,Creatine,3,33854,101562,Bank Transfer
+997,2024-10-19,133,Musanze,Energy Extreme,Energy,2,22839,45678,Bank Transfer
+998,2024-05-18,132,Musanze,Energy Extreme,Energy,1,14557,14557,Cash
+999,2024-12-21,84,Rwamagana,Vitamins Complex,Vitamins,3,19065,57195,Card
+1000,2024-11-28,116,Rubavu,Optimum Nutrition Creatine,Creatine,3,25089,75267,Card
+1001,2024-09-15,392,Kigali,Creatine Monohydrate,Creatine,1,30700,30700,Mobile Money
+1002,2024-06-09,147,Kigali,Whey Protein,Whey,1,19583,19583,Cash
+1003,2024-06-26,46,Huye,Optimum Nutrition Creatine,Creatine,4,26998,107992,Bank Transfer
+1004,2024-01-10,324,Rubavu,PreWorkout X,Pre-Workout,4,21757,87028,Bank Transfer
+1005,2024-09-17,385,Rwamagana,Whey Protein,Whey,2,26654,53308,Card
+1006,2024-05-17,283,Musanze,Vitamins Complex,Vitamins,3,25639,76917,Cash
+1007,2024-06-20,189,Musanze,Whey Protein,Whey,4,24270,97080,Mobile Money
+1008,2024-01-13,24,Rubavu,Optimum Nutrition Creatine,Creatine,4,24300,97200,Cash
+1009,2024-06-16,4,Musanze,PreWorkout X,Pre-Workout,4,22265,89060,Cash
+1010,2024-05-09,181,Rubavu,Energy Extreme,Energy,0,26673,0,Cash
+1011,2024-03-24,279,Rwamagana,Creatine Monohydrate,Creatine,4,33155,132620,Cash
+1012,2024-11-16,351,Huye,Creatine Monohydrate,Creatine,1,26964,26964,Card
+1013,2024-11-14,318,Rwamagana,Whey Protein,Whey,2,14276,28552,Bank Transfer
+1014,2024-04-10,249,Musanze,Vitamins Complex,Vitamins,1,27208,27208,Bank Transfer
+1015,2024-11-24,326,Musanze,Vitamins Complex,Vitamins,4,24901,99604,Bank Transfer
+1016,2024-09-29,168,Kigali,Creatine Monohydrate,Creatine,1,19865,19865,Mobile Money
+1017,2024-09-21,85,Musanze,PreWorkout X,Pre-Workout,3,23926,71778,Mobile Money
+1018,2024-02-07,3,Huye,Optimum Nutrition Creatine,Creatine,1,30691,30691,Bank Transfer
+1019,2024-04-03,342,Kigali,PreWorkout X,Pre-Workout,4,15810,63240,Mobile Money
+1020,2024-04-04,332,Kigali,PreWorkout X,Pre-Workout,3,20179,60537,Card
+1021,2024-10-31,239,Musanze,Optimum Nutrition Creatine,Creatine,2,30466,60932,Bank Transfer
+1022,2024-03-09,343,Kigali,Optimum Nutrition Creatine,Creatine,1,32412,32412,Cash
+1023,2024-11-13,30,Musanze,Vitamins Complex,Vitamins,2,34881,69762,Bank Transfer
+1024,2024-08-23,25,Huye,PreWorkout X,Pre-Workout,2,23156,46312,Mobile Money
+1025,2024-11-29,185,Rubavu,Whey Protein,Whey,4,26589,106356,Cash
+1026,2024-05-16,379,Huye,PreWorkout X,Pre-Workout,2,30975,61950,Card
+1027,2024-03-16,39,Kigali,Vitamins Complex,Vitamins,3,30195,90585,Cash
+1028,2024-02-04,213,Rwamagana,PreWorkout X,Pre-Workout,4,15141,60564,Bank Transfer
+1029,2024-01-01,241,Kigali,Vitamins Complex,Vitamins,2,12708,25416,Cash
+1030,2024-10-22,287,Huye,Whey Protein,Whey,4,21834,87336,Mobile Money
+1031,2024-11-15,32,Huye,Vitamins Complex,Vitamins,2,13273,26546,Card
+1032,2024-02-29,9,Rwamagana,Optimum Nutrition Creatine,Creatine,3,22541,67623,Cash
+1033,2024-11-15,10,Kigali,Whey Protein,Whey,1,30106,30106,Cash
+1034,2024-12-14,324,Huye,Vitamins Complex,Vitamins,2,12832,25664,Cash
+1035,2024-11-23,111,Rwamagana,Energy Extreme,Energy,4,32963,131852,Card
+1036,2024-09-23,357,Musanze,Optimum Nutrition Creatine,Creatine,1,32138,32138,Bank Transfer
+1037,2024-12-26,321,Kigali,Creatine Monohydrate,Creatine,2,12800,25600,Cash
+1038,2024-08-16,51,Rubavu,Whey Protein,Whey,3,19944,59832,Bank Transfer
+1039,2024-09-26,383,Kigali,Creatine Monohydrate,Creatine,4,11104,44416,Card
+1040,2024-11-11,104,Huye,Creatine Monohydrate,Creatine,4,33745,134980,Card
+1041,2024-10-12,379,Musanze,Whey Protein,Whey,3,17263,51789,Mobile Money
+1042,2024-10-17,378,Musanze,Whey Protein,Whey,2,29456,58912,Cash
+1043,2024-07-31,126,Rwamagana,Creatine Monohydrate,Creatine,3,10508,31524,Card
+1044,2024-06-13,251,Rwamagana,Whey Protein,Whey,1,13664,13664,Bank Transfer
+1045,2024-01-05,73,Kigali,Vitamins Complex,Vitamins,1,28908,28908,Bank Transfer
+1046,2024-12-04,340,Huye,PreWorkout X,Pre-Workout,1,14357,14357,Mobile Money
+1047,2024-03-18,3,Kigali,Vitamins Complex,Vitamins,4,12292,49168,Bank Transfer
+1048,2024-03-02,49,Musanze,Whey Protein,Whey,1,34126,34126,Bank Transfer
+1049,2024-05-11,175,Rubavu,Whey Protein,Whey,4,28287,113148,Mobile Money
+1050,2024-03-29,192,Rwamagana,Optimum Nutrition Creatine,Creatine,1,12230,12230,Cash
+1051,2024-08-24,271,Rubavu,Optimum Nutrition Creatine,Creatine,1,22112,22112,Bank Transfer
+1052,2024-02-11,352,Rwamagana,Energy Extreme,Energy,4,27951,111804,Bank Transfer
+1053,2024-03-29,369,Rubavu,Optimum Nutrition Creatine,Creatine,4,17619,70476,Card
+1054,2024-10-22,372,Rwamagana,Vitamins Complex,Vitamins,3,34618,103854,Bank Transfer
+1055,2024-11-23,78,Musanze,Optimum Nutrition Creatine,Creatine,3,28919,86757,Bank Transfer
+1056,2024-10-21,162,Huye,PreWorkout X,Pre-Workout,2,27677,55354,Mobile Money
+1057,2024-04-13,388,Musanze,Creatine Monohydrate,Creatine,1,23046,23046,Bank Transfer
+1058,2024-01-14,339,Rwamagana,Creatine Monohydrate,Creatine,4,29356,117424,Bank Transfer
+1059,2024-10-14,168,Huye,PreWorkout X,Pre-Workout,2,33416,66832,Cash
+1060,2024-06-27,283,Kigali,Optimum Nutrition Creatine,Creatine,3,28624,85872,Bank Transfer
+1061,2024-05-04,13,Rubavu,PreWorkout X,Pre-Workout,4,10389,41556,Cash
+1062,2024-12-18,147,Musanze,Energy Extreme,Energy,4,11855,47420,Mobile Money
+1063,2024-01-23,379,Musanze,Vitamins Complex,Vitamins,4,30047,120188,Bank Transfer
+1064,2024-03-03,89,Musanze,Whey Protein,Whey,3,11481,34443,Card
+1065,2024-05-22,151,Huye,Creatine Monohydrate,Creatine,4,33646,134584,Card
+1066,2024-06-01,371,Musanze,Energy Extreme,Energy,2,29477,58954,Card
+1067,2024-05-24,328,Rubavu,Creatine Monohydrate,Creatine,1,30452,30452,Mobile Money
+1068,2024-08-12,375,Rwamagana,Energy Extreme,Energy,3,29661,88983,Cash
+1069,2024-11-04,272,Huye,PreWorkout X,Pre-Workout,3,21889,65667,Bank Transfer
+1070,2024-04-13,179,Huye,PreWorkout X,Pre-Workout,3,31074,93222,Mobile Money
+1071,2024-04-13,328,Musanze,Whey Protein,Whey,2,30979,61958,Cash
+1072,2024-02-08,113,Musanze,PreWorkout X,Pre-Workout,0,18160,0,Cash
+1073,2024-07-16,53,Huye,Vitamins Complex,Vitamins,4,29581,118324,Card
+1074,2024-05-13,390,Huye,Vitamins Complex,Vitamins,3,26523,79569,Mobile Money
+1075,2024-03-07,334,Kigali,Vitamins Complex,Vitamins,1,20808,20808,Mobile Money
+1076,2024-06-27,376,Rubavu,Whey Protein,Whey,0,16261,0,Mobile Money
+1077,2024-02-11,318,Rubavu,Whey Protein,Whey,3,29488,88464,Mobile Money
+1078,2024-01-15,19,Huye,Creatine Monohydrate,Creatine,2,30335,60670,Cash
+1079,2024-04-20,379,Rwamagana,PreWorkout X,Pre-Workout,2,32724,65448,Bank Transfer
+1080,2024-06-05,47,Rwamagana,Creatine Monohydrate,Creatine,2,22253,44506,Mobile Money
+1081,2024-10-15,141,Kigali,PreWorkout X,Pre-Workout,3,16432,49296,Card
+1082,2024-08-18,391,Huye,PreWorkout X,Pre-Workout,4,13765,55060,Card
+1083,2024-06-05,14,Musanze,Vitamins Complex,Vitamins,3,22502,67506,Card
+1084,2024-02-07,310,Rwamagana,Energy Extreme,Energy,3,-34703,-104109,Card
+1085,2024-04-06,29,Kigali,PreWorkout X,Pre-Workout,1,14855,14855,Mobile Money
+1086,2024-10-15,319,Huye,PreWorkout X,Pre-Workout,4,32865,131460,Card
+1087,2024-09-10,57,Huye,Whey Protein,Whey,2,30840,61680,Bank Transfer
+1088,2024-07-14,62,Rubavu,Whey Protein,Whey,4,32745,130980,Card
+1089,2024-03-26,17,Kigali,Creatine Monohydrate,Creatine,1,10201,10201,Bank Transfer
+1090,2024-11-17,58,Musanze,Creatine Monohydrate,Creatine,2,26901,53802,Cash
+1091,2024-01-10,82,Kigali,Whey Protein,Whey,1,11988,11988,Card
+1092,2024-01-05,219,Musanze,Whey Protein,Whey,2,24256,48512,Bank Transfer
+1093,2024-05-02,387,Huye,Creatine Monohydrate,Creatine,1,17162,17162,Bank Transfer
+1094,2024-11-25,345,Kigali,Vitamins Complex,Vitamins,2,32625,65250,Cash
+1095,2024-12-18,2,Kigali,Whey Protein,Whey,3,18399,55197,Bank Transfer
+1096,2024-04-27,166,Rwamagana,Creatine Monohydrate,Creatine,4,20825,83300,Bank Transfer
+1097,2024-10-20,295,Musanze,Optimum Nutrition Creatine,Creatine,2,-34729,-69458,Bank Transfer
+1098,2024-06-07,230,Rwamagana,Vitamins Complex,Vitamins,3,11518,34554,Bank Transfer
+1099,2024-10-29,41,Kigali,Vitamins Complex,Vitamins,4,26346,105384,Cash
+1100,2024-08-15,108,Rwamagana,PreWorkout X,Pre-Workout,2,28579,57158,Mobile Money
+1101,2024-12-30,367,Rwamagana,Optimum Nutrition Creatine,Creatine,3,13554,40662,Bank Transfer
+1102,2024-08-03,323,Rubavu,Vitamins Complex,Vitamins,2,29233,58466,Bank Transfer
+1103,2024-07-02,283,Huye,Energy Extreme,Energy,2,11742,23484,Bank Transfer
+1104,2024-01-15,352,Huye,Whey Protein,Whey,2,22360,44720,Cash
+1105,2024-06-05,100,Rwamagana,PreWorkout X,Pre-Workout,4,23032,92128,Card
+1106,2024-05-15,258,Huye,Whey Protein,Whey,3,28939,86817,Bank Transfer
+1107,2024-09-17,65,Rubavu,Vitamins Complex,Vitamins,1,17619,17619,Cash
+1108,2024-06-05,266,Rubavu,Energy Extreme,Energy,3,19369,58107,Bank Transfer
+1109,2024-02-16,315,Huye,Creatine Monohydrate,Creatine,1,25438,25438,Cash
+1110,2024-11-19,48,Rwamagana,PreWorkout X,Pre-Workout,2,12994,25988,Cash
+1111,2024-11-27,248,Musanze,Optimum Nutrition Creatine,Creatine,1,25226,25226,Cash
+1112,2024-06-21,25,Huye,Whey Protein,Whey,2,28845,57690,Cash
+1113,2024-05-09,369,Kigali,PreWorkout X,Pre-Workout,1,18475,18475,Mobile Money
+1114,2024-04-04,7,Musanze,Whey Protein,Whey,1,19283,19283,Bank Transfer
+1115,2024-04-24,164,Huye,Vitamins Complex,Vitamins,1,33688,33688,Card
+1116,2024-08-30,138,Rubavu,Creatine Monohydrate,Creatine,3,11920,35760,Card
+1117,2024-10-18,237,Rubavu,Optimum Nutrition Creatine,Creatine,4,21336,85344,Card
+1118,2024-10-08,288,Rubavu,Vitamins Complex,Vitamins,2,22905,45810,Cash
+1119,2024-10-25,166,Rubavu,PreWorkout X,Pre-Workout,2,18367,36734,Cash
+1120,2024-10-09,370,Kigali,Vitamins Complex,Vitamins,1,14937,14937,Card
+1121,2024-03-09,178,Musanze,Energy Extreme,Energy,3,-28485,-85455,Card
+1122,2024-05-27,341,Rwamagana,Vitamins Complex,Vitamins,3,28163,84489,Bank Transfer
+1123,2024-01-11,379,Rubavu,Creatine Monohydrate,Creatine,3,13676,41028,Bank Transfer
+1124,2024-09-10,248,Rubavu,Whey Protein,Whey,1,34473,34473,Bank Transfer
+1125,2024-11-25,43,Rwamagana,Whey Protein,Whey,4,22048,88192,Card
+1126,2024-12-25,212,Rubavu,Creatine Monohydrate,Creatine,1,20409,20409,Card
+1127,2024-02-07,369,Rubavu,Creatine Monohydrate,Creatine,1,20278,20278,Mobile Money
+1128,2024-05-13,111,Huye,PreWorkout X,Pre-Workout,1,34726,34726,Cash
+1129,2024-07-18,63,Musanze,Optimum Nutrition Creatine,Creatine,4,31550,126200,Cash
+1130,2024-01-23,366,Kigali,Energy Extreme,Energy,1,32520,32520,Mobile Money
+1131,2024-10-29,290,Rwamagana,Whey Protein,Whey,1,28730,28730,Cash
+1132,2024-12-11,61,Huye,Vitamins Complex,Vitamins,4,20442,81768,Card
+1133,2024-10-28,314,Musanze,Energy Extreme,Energy,2,30285,60570,Card
+1134,2024-12-28,16,Kigali,Energy Extreme,Energy,1,30810,30810,Cash
+1135,2024-08-05,304,Rubavu,PreWorkout X,Pre-Workout,2,11629,23258,Card
+1136,2024-05-20,38,Kigali,Creatine Monohydrate,Creatine,3,11361,34083,Cash
+1137,2024-04-13,164,Rwamagana,Energy Extreme,Energy,3,14370,43110,Bank Transfer
+1138,2024-07-28,77,Rubavu,Creatine Monohydrate,Creatine,3,20558,61674,Bank Transfer
+1139,2024-04-20,387,Rubavu,Creatine Monohydrate,Creatine,4,21949,87796,Cash
+1140,2024-04-13,321,Rubavu,PreWorkout X,Pre-Workout,2,10869,21738,Bank Transfer
+1141,2024-11-11,91,Huye,Energy Extreme,Energy,3,20103,60309,Bank Transfer
+1142,2024-06-19,209,Rubavu,PreWorkout X,Pre-Workout,2,10690,21380,Mobile Money
+1143,2024-12-21,390,Kigali,PreWorkout X,Pre-Workout,1,20748,20748,Bank Transfer
+1144,2024-11-19,295,Kigali,Energy Extreme,Energy,3,18024,54072,Bank Transfer
+1145,2024-05-12,284,Rubavu,Vitamins Complex,Vitamins,1,30411,30411,Bank Transfer
+1146,2024-10-19,338,Rubavu,Creatine Monohydrate,Creatine,1,31128,31128,Cash
+1147,2024-11-23,341,Musanze,Energy Extreme,Energy,4,29642,118568,Cash
+1148,2024-05-06,363,Rubavu,Optimum Nutrition Creatine,Creatine,2,30025,60050,Cash
+1149,2024-04-15,230,Rubavu,Energy Extreme,Energy,3,15307,45921,Bank Transfer
+1150,2024-04-01,114,Huye,Optimum Nutrition Creatine,Creatine,2,27063,54126,Cash
+1151,2024-10-13,37,Huye,Vitamins Complex,Vitamins,4,15738,62952,Card
+1152,2024-02-20,18,Rubavu,Energy Extreme,Energy,3,24427,73281,Bank Transfer
+1153,2024-01-29,150,Rwamagana,Whey Protein,Whey,2,26446,52892,Mobile Money
+1154,2024-10-22,186,Kigali,Vitamins Complex,Vitamins,4,23450,93800,Bank Transfer
+1155,2024-10-23,260,Rwamagana,PreWorkout X,Pre-Workout,1,23516,23516,Mobile Money
+1156,2024-08-01,61,Musanze,PreWorkout X,Pre-Workout,2,18326,36652,Bank Transfer
+1157,2024-09-23,207,Musanze,Vitamins Complex,Vitamins,3,18003,54009,Cash
+1158,2024-09-13,242,Rwamagana,Creatine Monohydrate,Creatine,1,13074,13074,Cash
+1159,2024-10-28,102,Musanze,Energy Extreme,Energy,1,33936,33936,Cash
+1160,2024-04-10,133,Huye,Optimum Nutrition Creatine,Creatine,2,23652,47304,Cash
+1161,2024-12-11,348,Kigali,Creatine Monohydrate,Creatine,1,12761,12761,Mobile Money
+1162,2024-04-19,109,Musanze,Whey Protein,Whey,1,26625,26625,Card
+1163,2024-06-30,291,Rubavu,Energy Extreme,Energy,3,25954,77862,Cash
+1164,2024-11-08,129,Rwamagana,Creatine Monohydrate,Creatine,4,22356,89424,Bank Transfer
+1165,2024-01-01,283,Huye,Vitamins Complex,Vitamins,4,12187,48748,Mobile Money
+1166,2024-11-14,23,Huye,Optimum Nutrition Creatine,Creatine,4,31225,124900,Bank Transfer
+1167,2024-02-24,61,Rubavu,Energy Extreme,Energy,1,34852,34852,Cash
+1168,2024-05-28,344,Rwamagana,PreWorkout X,Pre-Workout,3,24387,73161,Mobile Money
+1169,2024-11-04,302,Musanze,Whey Protein,Whey,1,23622,23622,Bank Transfer
+1170,2024-05-16,389,Huye,Vitamins Complex,Vitamins,4,22127,88508,Card
+1171,2024-07-20,177,Huye,Energy Extreme,Energy,4,-16121,-64484,Card
+1172,2024-11-08,336,Rwamagana,Optimum Nutrition Creatine,Creatine,2,29238,58476,Bank Transfer
+1173,2024-04-26,213,Rubavu,Whey Protein,Whey,1,33408,33408,Bank Transfer
+1174,2024-06-02,6,Rubavu,Optimum Nutrition Creatine,Creatine,1,10136,10136,Mobile Money
+1175,2024-10-17,39,Musanze,Creatine Monohydrate,Creatine,3,28978,86934,Card
+1176,2024-03-03,118,Rubavu,Vitamins Complex,Vitamins,2,12472,24944,Cash
+1177,2024-08-31,76,Kigali,Energy Extreme,Energy,1,10086,10086,Cash
+1178,2024-01-25,313,Rubavu,Creatine Monohydrate,Creatine,3,34527,103581,Mobile Money
+1179,2024-03-30,285,Kigali,Creatine Monohydrate,Creatine,3,29157,87471,Cash
+1180,2024-03-15,87,Rwamagana,PreWorkout X,Pre-Workout,3,11700,35100,Cash
+1181,2024-10-20,46,Rubavu,Whey Protein,Whey,1,33199,33199,Cash
+1182,2024-07-28,45,Musanze,PreWorkout X,Pre-Workout,4,28031,112124,Cash
+1183,2024-12-12,104,Rubavu,Creatine Monohydrate,Creatine,1,21510,21510,Bank Transfer
+1184,2024-01-17,134,Kigali,Optimum Nutrition Creatine,Creatine,1,30929,30929,Mobile Money
+1185,2024-05-07,94,Musanze,Energy Extreme,Energy,4,21281,85124,Card
+1186,2024-12-29,289,Kigali,Energy Extreme,Energy,2,23045,46090,Mobile Money
+1187,2024-09-07,126,Kigali,Creatine Monohydrate,Creatine,2,18912,37824,Cash
+1188,2024-06-27,122,Rwamagana,Creatine Monohydrate,Creatine,3,17081,51243,Mobile Money
+1189,2024-06-30,115,Rubavu,PreWorkout X,Pre-Workout,2,24318,48636,Mobile Money
+1190,2024-05-31,28,Rubavu,Energy Extreme,Energy,4,23545,94180,Bank Transfer
+1191,2024-01-25,47,Kigali,PreWorkout X,Pre-Workout,3,12294,36882,Cash
+1192,2024-06-28,118,Rubavu,PreWorkout X,Pre-Workout,2,26530,53060,Bank Transfer
+1193,2024-07-16,152,Rubavu,Creatine Monohydrate,Creatine,3,13453,40359,Mobile Money
+1194,2024-12-09,137,Kigali,Whey Protein,Whey,4,20602,82408,Mobile Money
+1195,2024-06-09,19,Rubavu,Optimum Nutrition Creatine,Creatine,3,29744,89232,Bank Transfer
+1196,2024-06-25,175,Rwamagana,Energy Extreme,Energy,3,24665,73995,Mobile Money
+1197,2024-10-11,354,Rubavu,Whey Protein,Whey,2,18640,37280,Card
+1198,2024-03-03,246,Huye,Optimum Nutrition Creatine,Creatine,3,14236,42708,Cash
+1199,2024-05-29,93,Huye,Whey Protein,Whey,1,21169,21169,Card
+1200,2024-06-02,205,Rubavu,PreWorkout X,Pre-Workout,4,10238,40952,Bank Transfer
+1201,2024-06-04,245,Rwamagana,PreWorkout X,Pre-Workout,4,15552,62208,Bank Transfer
+1202,2024-02-18,295,Kigali,Optimum Nutrition Creatine,Creatine,4,21164,84656,Mobile Money
+1203,2024-12-02,282,Huye,Creatine Monohydrate,Creatine,4,31335,125340,Card
+1204,2024-03-24,325,Huye,Optimum Nutrition Creatine,Creatine,0,31772,0,Cash
+1205,2024-12-26,7,Kigali,Optimum Nutrition Creatine,Creatine,2,25810,51620,Cash
+1206,2024-06-25,103,Kigali,PreWorkout X,Pre-Workout,0,10816,0,Cash
+1207,2024-05-27,241,Huye,Vitamins Complex,Vitamins,1,10192,10192,Mobile Money
+1208,2024-04-27,171,Musanze,Whey Protein,Whey,2,22816,45632,Bank Transfer
+1209,2024-12-07,253,Kigali,Optimum Nutrition Creatine,Creatine,1,34826,34826,Cash
+1210,2024-03-03,29,Kigali,Energy Extreme,Energy,3,17374,52122,Mobile Money
+1211,2024-07-07,282,Rubavu,Creatine Monohydrate,Creatine,1,20655,20655,Cash
+1212,2024-12-25,25,Kigali,Energy Extreme,Energy,4,19359,77436,Mobile Money
+1213,2024-02-18,73,Huye,Vitamins Complex,Vitamins,2,16811,33622,Mobile Money
+1214,2024-11-22,93,Huye,Energy Extreme,Energy,4,30288,121152,Card
+1215,2024-09-13,336,Kigali,Energy Extreme,Energy,1,19813,19813,Cash
+1216,2024-08-11,364,Rubavu,Vitamins Complex,Vitamins,1,20738,20738,Cash
+1217,2024-05-20,233,Rwamagana,Optimum Nutrition Creatine,Creatine,3,16773,50319,Card
+1218,2024-08-02,339,Rwamagana,Optimum Nutrition Creatine,Creatine,3,10717,32151,Card
+1219,2024-07-29,271,Musanze,Optimum Nutrition Creatine,Creatine,3,15057,45171,Bank Transfer
+1220,2024-11-13,181,Rwamagana,Creatine Monohydrate,Creatine,3,14234,42702,Cash
+1221,2024-02-01,57,Rubavu,Energy Extreme,Energy,2,14637,29274,Cash
+1222,2024-06-06,384,Rwamagana,PreWorkout X,Pre-Workout,4,33185,132740,Cash
+1223,2024-10-11,224,Musanze,Optimum Nutrition Creatine,Creatine,4,18385,73540,Bank Transfer
+1224,2024-10-31,6,Kigali,Creatine Monohydrate,Creatine,4,12581,50324,Cash
+1225,2024-10-12,360,Musanze,Creatine Monohydrate,Creatine,4,32712,130848,Mobile Money
+1226,2024-05-23,220,Musanze,Vitamins Complex,Vitamins,4,29790,119160,Mobile Money
+1227,2024-01-19,49,Rwamagana,Creatine Monohydrate,Creatine,4,21064,84256,Card
+1228,2024-01-18,322,Rubavu,Creatine Monohydrate,Creatine,1,14177,14177,Card
+1229,2024-09-13,335,Musanze,Energy Extreme,Energy,1,28988,28988,Card
+1230,2024-03-18,221,Huye,Energy Extreme,Energy,0,32463,0,Card
+1231,2024-06-23,323,Kigali,Creatine Monohydrate,Creatine,3,21996,65988,Cash
+1232,2024-07-12,182,Rwamagana,Creatine Monohydrate,Creatine,3,26386,79158,Bank Transfer
+1233,2024-04-22,40,Rubavu,Energy Extreme,Energy,2,32335,64670,Bank Transfer
+1234,2024-04-23,60,Rwamagana,PreWorkout X,Pre-Workout,3,32010,96030,Cash
+1235,2024-08-09,122,Rwamagana,Vitamins Complex,Vitamins,4,-12890,-51560,Card
+1236,2024-06-14,96,Musanze,Vitamins Complex,Vitamins,3,20858,62574,Cash
+1237,2024-11-14,386,Rwamagana,Energy Extreme,Energy,3,13306,39918,Cash
+1238,2024-05-11,49,Huye,Energy Extreme,Energy,2,19471,38942,Card
+1239,2024-09-20,159,Huye,Whey Protein,Whey,1,24683,24683,Mobile Money
+1240,2024-02-24,317,Huye,PreWorkout X,Pre-Workout,4,27889,111556,Cash
+1241,2024-12-24,48,Rubavu,PreWorkout X,Pre-Workout,4,23006,92024,Bank Transfer
+1242,2024-05-10,201,Rubavu,Whey Protein,Whey,1,31639,31639,Cash
+1243,2024-10-14,357,Huye,Whey Protein,Whey,2,32841,65682,Bank Transfer
+1244,2024-09-22,314,Rubavu,Creatine Monohydrate,Creatine,4,12854,51416,Mobile Money
+1245,2024-06-10,355,Rwamagana,Creatine Monohydrate,Creatine,4,30176,120704,Cash
+1246,2024-03-27,192,Rubavu,PreWorkout X,Pre-Workout,1,31714,31714,Cash
+1247,2024-02-24,59,Kigali,Energy Extreme,Energy,4,29996,119984,Bank Transfer
+1248,2024-10-14,265,Kigali,Vitamins Complex,Vitamins,3,13163,39489,Mobile Money
+1249,2024-06-26,390,Huye,Optimum Nutrition Creatine,Creatine,3,34795,104385,Card
+1250,2024-12-14,215,Huye,Optimum Nutrition Creatine,Creatine,1,21705,21705,Bank Transfer
+1251,2024-01-08,277,Musanze,Creatine Monohydrate,Creatine,3,21138,63414,Cash
+1252,2024-11-16,292,Rwamagana,Energy Extreme,Energy,4,23145,92580,Mobile Money
+1253,2024-11-08,245,Rwamagana,Whey Protein,Whey,2,21748,43496,Bank Transfer
+1254,2024-09-03,332,Kigali,Energy Extreme,Energy,2,30029,60058,Mobile Money
+1255,2024-11-18,269,Rwamagana,Creatine Monohydrate,Creatine,0,13516,0,Cash
+1256,2024-09-11,16,Kigali,PreWorkout X,Pre-Workout,3,10053,30159,Bank Transfer
+1257,2024-11-23,59,Huye,Optimum Nutrition Creatine,Creatine,4,26999,107996,Cash
+1258,2024-02-23,386,Huye,PreWorkout X,Pre-Workout,1,17404,17404,Card
+1259,2024-09-05,204,Rubavu,Whey Protein,Whey,2,20973,41946,Card
+1260,2024-08-26,395,Rwamagana,PreWorkout X,Pre-Workout,2,20539,41078,Cash
+1261,2024-08-16,81,Huye,Whey Protein,Whey,3,31839,95517,Card
+1262,2024-03-07,178,Kigali,Optimum Nutrition Creatine,Creatine,2,28945,57890,Card
+1263,2024-02-20,346,Kigali,PreWorkout X,Pre-Workout,4,26754,107016,Cash
+1264,2024-04-06,318,Rubavu,Creatine Monohydrate,Creatine,3,22945,68835,Card
+1265,2024-04-01,384,Rubavu,Optimum Nutrition Creatine,Creatine,4,23680,94720,Cash
+1266,2024-09-20,239,Rwamagana,PreWorkout X,Pre-Workout,2,20744,41488,Bank Transfer
+1267,2024-10-17,222,Rwamagana,PreWorkout X,Pre-Workout,3,29109,87327,Mobile Money
+1268,2024-04-05,173,Huye,Whey Protein,Whey,1,23440,23440,Cash
+1269,2024-03-28,378,Rwamagana,PreWorkout X,Pre-Workout,4,14251,57004,Mobile Money
+1270,2024-03-18,356,Musanze,Optimum Nutrition Creatine,Creatine,2,26140,52280,Card
+1271,2024-10-14,74,Huye,Energy Extreme,Energy,3,17957,53871,Card
+1272,2024-04-29,207,Rwamagana,Optimum Nutrition Creatine,Creatine,3,25796,77388,Mobile Money
+1273,2024-10-28,279,Kigali,Energy Extreme,Energy,4,34031,136124,Cash
+1274,2024-06-13,340,Huye,Vitamins Complex,Vitamins,3,14933,44799,Bank Transfer
+1275,2024-06-30,340,Musanze,Energy Extreme,Energy,2,30324,60648,Bank Transfer
+1276,2024-08-10,28,Rubavu,Vitamins Complex,Vitamins,4,26544,106176,Cash
+1277,2024-11-06,63,Musanze,Whey Protein,Whey,4,13748,54992,Bank Transfer
+1278,2024-01-07,381,Rubavu,Energy Extreme,Energy,2,11093,22186,Bank Transfer
+1279,2024-11-25,79,Rubavu,Creatine Monohydrate,Creatine,1,26034,26034,Cash
+1280,2024-09-19,120,Rwamagana,Creatine Monohydrate,Creatine,1,29259,29259,Cash
+1281,2024-06-09,176,Rubavu,Vitamins Complex,Vitamins,2,10689,21378,Mobile Money
+1282,2024-05-30,366,Rubavu,Whey Protein,Whey,2,12103,24206,Cash
+1283,2024-03-25,232,Kigali,Creatine Monohydrate,Creatine,3,21767,65301,Bank Transfer
+1284,2024-05-26,104,Rwamagana,Vitamins Complex,Vitamins,3,34476,103428,Cash
+1285,2024-04-21,258,Rwamagana,Energy Extreme,Energy,1,32417,32417,Cash
+1286,2024-02-05,182,Huye,Optimum Nutrition Creatine,Creatine,4,12378,49512,Card
+1287,2024-10-11,38,Kigali,Energy Extreme,Energy,1,22031,22031,Bank Transfer
+1288,2024-07-06,299,Rubavu,Vitamins Complex,Vitamins,4,19867,79468,Card
+1289,2024-03-22,61,Rubavu,Energy Extreme,Energy,1,19306,19306,Mobile Money
+1290,2024-01-02,365,Huye,Optimum Nutrition Creatine,Creatine,2,27858,55716,Cash
+1291,2024-10-29,351,Rubavu,Energy Extreme,Energy,3,23986,71958,Card
+1292,2024-07-15,269,Huye,Optimum Nutrition Creatine,Creatine,3,32780,98340,Mobile Money
+1293,2024-01-11,187,Musanze,Energy Extreme,Energy,1,12850,12850,Card
+1294,2024-08-21,304,Huye,PreWorkout X,Pre-Workout,1,14594,14594,Mobile Money
+1295,2024-07-13,86,Rubavu,Optimum Nutrition Creatine,Creatine,1,12850,12850,Mobile Money
+1296,2024-04-28,114,Kigali,Whey Protein,Whey,0,20701,0,Card
+1297,2024-01-20,356,Rubavu,Optimum Nutrition Creatine,Creatine,1,27375,27375,Bank Transfer
+1298,2024-09-17,235,Rwamagana,Optimum Nutrition Creatine,Creatine,4,13839,55356,Mobile Money
+1299,2024-10-19,3,Rubavu,Creatine Monohydrate,Creatine,2,21618,43236,Card
+1300,2024-09-12,341,Huye,Whey Protein,Whey,0,31188,0,Card
+1301,2024-08-09,68,Huye,Energy Extreme,Energy,1,20776,20776,Bank Transfer
+1302,2024-08-13,383,Kigali,Vitamins Complex,Vitamins,1,15660,15660,Cash
+1303,2024-02-22,74,Rubavu,Optimum Nutrition Creatine,Creatine,3,20922,62766,Mobile Money
+1304,2024-12-20,153,Kigali,PreWorkout X,Pre-Workout,1,17082,17082,Cash
+1305,2024-12-07,211,Huye,Creatine Monohydrate,Creatine,4,25407,101628,Cash
+1306,2024-12-29,139,Musanze,Creatine Monohydrate,Creatine,3,32423,97269,Card
+1307,2024-10-06,183,Musanze,Energy Extreme,Energy,0,23281,0,Bank Transfer
+1308,2024-03-21,191,Rwamagana,Energy Extreme,Energy,4,34260,137040,Card
+1309,2024-07-20,51,Rwamagana,PreWorkout X,Pre-Workout,3,14996,44988,Mobile Money
+1310,2024-06-06,50,Rwamagana,Vitamins Complex,Vitamins,1,12827,12827,Card
+1311,2024-04-29,170,Rwamagana,Vitamins Complex,Vitamins,4,15232,60928,Bank Transfer
+1312,2024-02-28,14,Rwamagana,Whey Protein,Whey,4,34229,136916,Bank Transfer
+1313,2024-08-02,395,Musanze,Energy Extreme,Energy,3,30767,92301,Card
+1314,2024-05-07,155,Rwamagana,Optimum Nutrition Creatine,Creatine,1,29345,29345,Cash
+1315,2024-08-11,210,Kigali,PreWorkout X,Pre-Workout,3,16837,50511,Mobile Money
+1316,2024-07-27,75,Rwamagana,Optimum Nutrition Creatine,Creatine,4,24806,99224,Card
+1317,2024-04-24,343,Kigali,Optimum Nutrition Creatine,Creatine,1,13716,13716,Cash
+1318,2024-07-27,345,Kigali,Optimum Nutrition Creatine,Creatine,1,10570,10570,Cash
+1319,2024-01-14,339,Rwamagana,Optimum Nutrition Creatine,Creatine,1,28889,28889,Cash
+1320,2024-01-09,260,Musanze,Optimum Nutrition Creatine,Creatine,1,16982,16982,Mobile Money
+1321,2024-02-09,104,Rwamagana,PreWorkout X,Pre-Workout,1,28062,28062,Cash
+1322,2024-08-24,242,Kigali,Whey Protein,Whey,4,19941,79764,Card
+1323,2024-10-07,142,Rubavu,Creatine Monohydrate,Creatine,3,22380,67140,Mobile Money
+1324,2024-12-24,112,Kigali,Vitamins Complex,Vitamins,0,21667,0,Card
+1325,2024-07-19,59,Musanze,PreWorkout X,Pre-Workout,1,18566,18566,Bank Transfer
+1326,2024-09-02,268,Huye,Vitamins Complex,Vitamins,3,26590,79770,Card
+1327,2024-10-04,20,Huye,PreWorkout X,Pre-Workout,4,11141,44564,Card
+1328,2024-08-22,131,Huye,PreWorkout X,Pre-Workout,2,24501,49002,Card
+1329,2024-01-04,90,Musanze,Optimum Nutrition Creatine,Creatine,4,13255,53020,Cash
+1330,2024-06-02,322,Musanze,Whey Protein,Whey,2,14108,28216,Mobile Money
+1331,2024-01-29,322,Rwamagana,Energy Extreme,Energy,1,29173,29173,Bank Transfer
+1332,2024-04-18,26,Musanze,Creatine Monohydrate,Creatine,4,33989,135956,Cash
+1333,2024-04-07,364,Rwamagana,Energy Extreme,Energy,3,34519,103557,Cash
+1334,2024-08-02,150,Kigali,Whey Protein,Whey,4,30266,121064,Bank Transfer
+1335,2024-10-19,29,Rwamagana,Vitamins Complex,Vitamins,4,33559,134236,Bank Transfer
+1336,2024-03-15,209,Huye,Optimum Nutrition Creatine,Creatine,4,33513,134052,Cash
+1337,2024-11-21,116,Rwamagana,Energy Extreme,Energy,4,28771,115084,Card
+1338,2024-05-25,318,Rwamagana,Creatine Monohydrate,Creatine,3,23455,70365,Bank Transfer
+1339,2024-05-07,45,Huye,PreWorkout X,Pre-Workout,3,28950,86850,Mobile Money
+1340,2024-12-06,155,Huye,Energy Extreme,Energy,3,11262,33786,Cash
+1341,2024-02-11,88,Huye,Energy Extreme,Energy,1,17382,17382,Mobile Money
+1342,2024-12-21,73,Musanze,Whey Protein,Whey,4,32014,128056,Cash
+1343,2024-02-10,293,Huye,Optimum Nutrition Creatine,Creatine,3,28643,85929,Card
+1344,2024-02-03,239,Musanze,Vitamins Complex,Vitamins,2,26848,53696,Mobile Money
+1345,2024-01-17,313,Musanze,Whey Protein,Whey,3,16774,50322,Card
+1346,2024-06-13,95,Musanze,Whey Protein,Whey,4,11230,44920,Cash
+1347,2024-06-01,366,Rubavu,Creatine Monohydrate,Creatine,1,13805,13805,Cash
+1348,2024-03-16,231,Rwamagana,Energy Extreme,Energy,4,24715,98860,Bank Transfer
+1349,2024-03-27,268,Rubavu,Creatine Monohydrate,Creatine,1,15750,15750,Card
+1350,2024-04-26,64,Rwamagana,Whey Protein,Whey,1,30240,30240,Mobile Money
+1351,2024-12-27,11,Musanze,Energy Extreme,Energy,2,32418,64836,Bank Transfer
+1352,2024-12-07,71,Rubavu,Optimum Nutrition Creatine,Creatine,2,32449,64898,Mobile Money
+1353,2024-01-27,290,Rwamagana,Vitamins Complex,Vitamins,4,29001,116004,Cash
+1354,2024-11-08,358,Rwamagana,Vitamins Complex,Vitamins,3,14145,42435,Bank Transfer
+1355,2024-10-13,52,Rwamagana,Optimum Nutrition Creatine,Creatine,4,-23193,-92772,Mobile Money
+1356,2024-05-13,84,Huye,Creatine Monohydrate,Creatine,3,33012,99036,Card
+1357,2024-08-06,126,Rubavu,Creatine Monohydrate,Creatine,0,34356,0,Mobile Money
+1358,2024-06-16,72,Rubavu,Optimum Nutrition Creatine,Creatine,1,24119,24119,Cash
+1359,2024-04-07,56,Rwamagana,Energy Extreme,Energy,4,14331,57324,Cash
+1360,2024-09-24,110,Rwamagana,Optimum Nutrition Creatine,Creatine,3,32410,97230,Bank Transfer
+1361,2024-08-24,350,Rubavu,Energy Extreme,Energy,4,23404,93616,Cash
+1362,2024-11-04,138,Rwamagana,Creatine Monohydrate,Creatine,4,19275,77100,Bank Transfer
+1363,2024-06-21,49,Huye,Whey Protein,Whey,3,21803,65409,Card
+1364,2024-07-08,36,Musanze,Creatine Monohydrate,Creatine,4,27420,109680,Mobile Money
+1365,2024-05-01,86,Huye,Optimum Nutrition Creatine,Creatine,1,22057,22057,Card
+1366,2024-02-15,338,Huye,Whey Protein,Whey,4,21486,85944,Bank Transfer
+1367,2024-03-04,383,Huye,Optimum Nutrition Creatine,Creatine,4,22453,89812,Bank Transfer
+1368,2024-05-09,376,Rubavu,Energy Extreme,Energy,4,22158,88632,Card
+1369,2024-11-05,130,Rwamagana,Vitamins Complex,Vitamins,3,25125,75375,Cash
+1370,2024-12-28,11,Huye,Whey Protein,Whey,3,33926,101778,Mobile Money
+1371,2024-07-11,96,Kigali,Whey Protein,Whey,4,13373,53492,Cash
+1372,2024-11-02,192,Rubavu,Whey Protein,Whey,2,20692,41384,Bank Transfer
+1373,2024-06-29,128,Musanze,Optimum Nutrition Creatine,Creatine,2,11289,22578,Card
+1374,2024-10-18,112,Rwamagana,Whey Protein,Whey,2,33906,67812,Mobile Money
+1375,2024-10-08,343,Huye,Creatine Monohydrate,Creatine,4,23757,95028,Card
+1376,2024-01-29,247,Rwamagana,Energy Extreme,Energy,1,29520,29520,Card
+1377,2024-05-28,313,Kigali,Whey Protein,Whey,3,17657,52971,Cash
+1378,2024-09-23,181,Rubavu,Energy Extreme,Energy,3,20345,61035,Bank Transfer
+1379,2024-10-22,265,Kigali,PreWorkout X,Pre-Workout,4,18417,73668,Card
+1380,2024-01-11,176,Rwamagana,Vitamins Complex,Vitamins,2,15208,30416,Card
+1381,2024-06-12,399,Kigali,Energy Extreme,Energy,2,31451,62902,Cash
+1382,2024-04-22,319,Rubavu,Optimum Nutrition Creatine,Creatine,2,19486,38972,Bank Transfer
+1383,2024-07-05,13,Kigali,Energy Extreme,Energy,3,31158,93474,Cash
+1384,2024-10-21,393,Rwamagana,Whey Protein,Whey,1,13103,13103,Cash
+1385,2024-08-19,82,Rubavu,Vitamins Complex,Vitamins,4,17124,68496,Bank Transfer
+1386,2024-08-14,201,Kigali,Energy Extreme,Energy,1,24031,24031,Bank Transfer
+1387,2024-11-05,38,Huye,Creatine Monohydrate,Creatine,3,13915,41745,Card
+1388,2024-04-07,327,Huye,Vitamins Complex,Vitamins,3,16587,49761,Bank Transfer
+1389,2024-02-24,48,Musanze,Energy Extreme,Energy,1,10226,10226,Bank Transfer
+1390,2024-04-20,295,Musanze,Whey Protein,Whey,2,21151,42302,Card
+1391,2024-05-31,345,Rwamagana,Vitamins Complex,Vitamins,4,10186,40744,Cash
+1392,2024-09-02,397,Musanze,PreWorkout X,Pre-Workout,4,21069,84276,Mobile Money
+1393,2024-03-09,229,Kigali,PreWorkout X,Pre-Workout,1,12032,12032,Card
+1394,2024-11-07,77,Musanze,Creatine Monohydrate,Creatine,2,15074,30148,Bank Transfer
+1395,2024-10-15,346,Rubavu,PreWorkout X,Pre-Workout,1,24523,24523,Mobile Money
+1396,2024-09-06,310,Rwamagana,Whey Protein,Whey,2,11630,23260,Bank Transfer
+1397,2024-02-05,39,Rwamagana,PreWorkout X,Pre-Workout,4,32523,130092,Mobile Money
+1398,2024-08-26,333,Rwamagana,Vitamins Complex,Vitamins,4,-26152,-104608,Cash
+1399,2024-05-27,191,Musanze,Vitamins Complex,Vitamins,4,29642,118568,Card
+1400,2024-08-14,220,Huye,Vitamins Complex,Vitamins,2,32647,65294,Bank Transfer
+1401,2024-08-31,131,Kigali,Optimum Nutrition Creatine,Creatine,1,19949,19949,Bank Transfer
+1402,2024-12-02,226,Huye,Creatine Monohydrate,Creatine,1,16901,16901,Bank Transfer
+1403,2024-12-30,96,Huye,PreWorkout X,Pre-Workout,4,18597,74388,Card
+1404,2024-07-19,247,Rwamagana,Optimum Nutrition Creatine,Creatine,1,16855,16855,Mobile Money
+1405,2024-06-02,6,Musanze,Vitamins Complex,Vitamins,4,24520,98080,Card
+1406,2024-03-13,394,Huye,Creatine Monohydrate,Creatine,2,21874,43748,Cash
+1407,2024-07-19,187,Musanze,Energy Extreme,Energy,3,24079,72237,Cash
+1408,2024-10-22,287,Huye,PreWorkout X,Pre-Workout,4,19018,76072,Bank Transfer
+1409,2024-01-17,325,Huye,Creatine Monohydrate,Creatine,1,31758,31758,Card
+1410,2024-05-08,345,Rwamagana,PreWorkout X,Pre-Workout,2,26691,53382,Mobile Money
+1411,2024-08-04,250,Musanze,Optimum Nutrition Creatine,Creatine,0,14820,0,Cash
+1412,2024-03-01,383,Rubavu,Energy Extreme,Energy,4,29942,119768,Card
+1413,2024-04-13,13,Kigali,PreWorkout X,Pre-Workout,2,32915,65830,Cash
+1414,2024-02-11,114,Rwamagana,Energy Extreme,Energy,1,20878,20878,Cash
+1415,2024-01-25,205,Huye,Optimum Nutrition Creatine,Creatine,1,18467,18467,Bank Transfer
+1416,2024-02-08,385,Kigali,Creatine Monohydrate,Creatine,1,20165,20165,Mobile Money
+1417,2024-10-17,273,Musanze,Whey Protein,Whey,3,28380,85140,Mobile Money
+1418,2024-05-10,328,Rwamagana,Whey Protein,Whey,4,13129,52516,Card
+1419,2024-08-16,109,Rubavu,Creatine Monohydrate,Creatine,2,15850,31700,Bank Transfer
+1420,2024-04-17,328,Rubavu,Vitamins Complex,Vitamins,3,21949,65847,Card
+1421,2024-06-20,111,Kigali,Energy Extreme,Energy,4,10314,41256,Mobile Money
+1422,2024-04-11,229,Kigali,Whey Protein,Whey,3,31260,93780,Bank Transfer
+1423,2024-12-19,189,Kigali,Optimum Nutrition Creatine,Creatine,1,18347,18347,Cash
+1424,2024-01-12,2,Rubavu,PreWorkout X,Pre-Workout,4,27270,109080,Mobile Money
+1425,2024-10-01,286,Kigali,Energy Extreme,Energy,2,10721,21442,Cash
+1426,2024-04-10,221,Kigali,Optimum Nutrition Creatine,Creatine,3,16751,50253,Card
+1427,2024-02-13,338,Kigali,Whey Protein,Whey,2,11117,22234,Card
+1428,2024-10-31,112,Musanze,Creatine Monohydrate,Creatine,1,24996,24996,Card
+1429,2024-01-17,116,Rwamagana,Vitamins Complex,Vitamins,3,16992,50976,Bank Transfer
+1430,2024-11-25,364,Rwamagana,Creatine Monohydrate,Creatine,3,29145,87435,Cash
+1431,2024-02-26,384,Huye,Whey Protein,Whey,3,22852,68556,Card
+1432,2024-11-06,313,Huye,Optimum Nutrition Creatine,Creatine,4,33453,133812,Cash
+1433,2024-10-29,182,Rubavu,Creatine Monohydrate,Creatine,4,12696,50784,Mobile Money
+1434,2024-01-12,44,Kigali,Energy Extreme,Energy,3,29456,88368,Card
+1435,2024-11-13,98,Musanze,Optimum Nutrition Creatine,Creatine,3,24154,72462,Mobile Money
+1436,2024-03-20,271,Rwamagana,Energy Extreme,Energy,4,13871,55484,Card
+1437,2024-08-03,237,Rwamagana,Vitamins Complex,Vitamins,4,27888,111552,Bank Transfer
+1438,2024-12-04,392,Huye,PreWorkout X,Pre-Workout,2,23304,46608,Mobile Money
+1439,2024-09-20,190,Kigali,Energy Extreme,Energy,4,28074,112296,Card
+1440,2024-05-28,42,Musanze,Optimum Nutrition Creatine,Creatine,4,13303,53212,Cash
+1441,2024-03-21,351,Huye,Optimum Nutrition Creatine,Creatine,2,34234,68468,Mobile Money
+1442,2024-08-02,221,Rwamagana,Optimum Nutrition Creatine,Creatine,1,27888,27888,Mobile Money
+1443,2024-07-16,56,Kigali,Whey Protein,Whey,1,13924,13924,Cash
+1444,2024-07-18,102,Musanze,PreWorkout X,Pre-Workout,2,22629,45258,Card
+1445,2024-01-25,310,Kigali,Optimum Nutrition Creatine,Creatine,1,10191,10191,Bank Transfer
+1446,2024-03-29,227,Huye,Creatine Monohydrate,Creatine,4,-20160,-80640,Bank Transfer
+1447,2024-09-24,305,Musanze,Energy Extreme,Energy,3,33383,100149,Mobile Money
+1448,2024-05-22,63,Rubavu,Whey Protein,Whey,1,33666,33666,Card
+1449,2024-02-28,359,Huye,Whey Protein,Whey,4,11874,47496,Cash
+1450,2024-12-30,273,Rubavu,Vitamins Complex,Vitamins,4,20234,80936,Bank Transfer
+1451,2024-01-26,184,Kigali,Optimum Nutrition Creatine,Creatine,2,21410,42820,Bank Transfer
+1452,2024-02-16,38,Kigali,Whey Protein,Whey,2,11051,22102,Bank Transfer
+1453,2024-10-14,371,Musanze,Creatine Monohydrate,Creatine,3,22580,67740,Cash
+1454,2024-09-22,218,Huye,Vitamins Complex,Vitamins,4,21989,87956,Mobile Money
+1455,2024-01-16,58,Rubavu,Whey Protein,Whey,1,21939,21939,Card
+1456,2024-07-17,58,Musanze,Whey Protein,Whey,0,10307,0,Cash
+1457,2024-10-08,228,Musanze,Whey Protein,Whey,4,13176,52704,Cash
+1458,2024-03-26,83,Huye,PreWorkout X,Pre-Workout,3,27901,83703,Bank Transfer
+1459,2024-09-06,360,Musanze,Creatine Monohydrate,Creatine,2,32253,64506,Card
+1460,2024-09-26,284,Huye,Whey Protein,Whey,4,24330,97320,Card
+1461,2024-11-30,210,Rwamagana,PreWorkout X,Pre-Workout,1,11961,11961,Mobile Money
+1462,2024-04-26,208,Kigali,Vitamins Complex,Vitamins,4,20848,83392,Cash
+1463,2024-01-07,137,Rwamagana,PreWorkout X,Pre-Workout,2,25235,50470,Card
+1464,2024-05-16,184,Rubavu,Whey Protein,Whey,3,21151,63453,Cash
+1465,2024-06-24,375,Kigali,Vitamins Complex,Vitamins,4,-13358,-53432,Cash
+1466,2024-11-23,25,Huye,Vitamins Complex,Vitamins,0,20988,0,Bank Transfer
+1467,2024-11-10,250,Musanze,Energy Extreme,Energy,3,15698,47094,Bank Transfer
+1468,2024-08-02,118,Musanze,Creatine Monohydrate,Creatine,4,33037,132148,Cash
+1469,2024-03-22,282,Musanze,Vitamins Complex,Vitamins,2,27480,54960,Card
+1470,2024-08-10,211,Rwamagana,Optimum Nutrition Creatine,Creatine,4,21273,85092,Bank Transfer
+1471,2024-04-12,5,Musanze,PreWorkout X,Pre-Workout,3,14247,42741,Mobile Money
+1472,2024-09-29,113,Rwamagana,Whey Protein,Whey,3,29738,89214,Bank Transfer
+1473,2024-01-14,105,Rwamagana,Optimum Nutrition Creatine,Creatine,3,27570,82710,Cash
+1474,2024-06-07,175,Kigali,Energy Extreme,Energy,1,25641,25641,Cash
+1475,2024-05-31,340,Rwamagana,Optimum Nutrition Creatine,Creatine,2,28782,57564,Card
+1476,2024-04-17,132,Musanze,Optimum Nutrition Creatine,Creatine,4,23782,95128,Bank Transfer
+1477,2024-07-06,368,Musanze,Creatine Monohydrate,Creatine,3,12230,36690,Bank Transfer
+1478,2024-10-27,89,Rubavu,Energy Extreme,Energy,0,19461,0,Cash
+1479,2024-04-07,387,Rubavu,Energy Extreme,Energy,2,14765,29530,Mobile Money
+1480,2024-05-10,340,Musanze,Energy Extreme,Energy,2,23272,46544,Card
+1481,2024-10-19,214,Kigali,Whey Protein,Whey,1,10627,10627,Card
+1482,2024-06-19,372,Rubavu,Whey Protein,Whey,1,-16589,-16589,Bank Transfer
+1483,2024-07-01,143,Kigali,Vitamins Complex,Vitamins,2,15884,31768,Card
+1484,2024-12-29,366,Musanze,Energy Extreme,Energy,2,10249,20498,Card
+1485,2024-02-08,302,Musanze,Whey Protein,Whey,4,27358,109432,Mobile Money
+1486,2024-01-15,377,Huye,Creatine Monohydrate,Creatine,1,19175,19175,Card
+1487,2024-01-04,70,Musanze,Whey Protein,Whey,2,26260,52520,Bank Transfer
+1488,2024-12-14,364,Kigali,Vitamins Complex,Vitamins,1,17279,17279,Mobile Money
+1489,2024-07-28,91,Rwamagana,Whey Protein,Whey,3,18662,55986,Card
+1490,2024-06-09,227,Huye,Energy Extreme,Energy,2,22948,45896,Card
+1491,2024-01-16,151,Rubavu,Energy Extreme,Energy,2,23159,46318,Cash
+1492,2024-04-17,40,Musanze,Optimum Nutrition Creatine,Creatine,4,20178,80712,Cash
+1493,2024-11-06,345,Musanze,PreWorkout X,Pre-Workout,2,20377,40754,Cash
+1494,2024-08-14,200,Musanze,Creatine Monohydrate,Creatine,4,-11008,-44032,Card
+1495,2024-06-18,61,Kigali,Optimum Nutrition Creatine,Creatine,0,14298,0,Card
+1496,2024-02-03,378,Rubavu,Whey Protein,Whey,4,12052,48208,Bank Transfer
+1497,2024-09-07,311,Huye,Optimum Nutrition Creatine,Creatine,1,11716,11716,Card
+1498,2024-09-03,237,Kigali,Optimum Nutrition Creatine,Creatine,1,24391,24391,Cash
+1499,2024-09-25,197,Huye,Creatine Monohydrate,Creatine,2,30316,60632,Mobile Money
+1500,2024-05-20,360,Rubavu,Optimum Nutrition Creatine,Creatine,1,34000,34000,Cash
